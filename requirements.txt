@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+faiss-cpu
+pandas
+python-dotenv
+requests
+mistralai
