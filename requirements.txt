@@ -6,3 +6,8 @@ pandas
 python-dotenv
 requests
 mistralai
+langchain-community
+langchain-mistralai
+faiss-cpu
+ragas
+datasets
