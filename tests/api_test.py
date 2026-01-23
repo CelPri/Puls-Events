@@ -3,10 +3,10 @@ from api.main import app
 
 client = TestClient(app)
 
-def test_api_ask(mocker):
-    mocker.patch(
+def test_api_ask(monkeypatch):
+    monkeypatch.setattr(
         "api.main.answer",
-        return_value="Réponse mockée"
+        lambda q: "Réponse mockée"
     )
 
     response = client.post(
@@ -15,4 +15,4 @@ def test_api_ask(mocker):
     )
 
     assert response.status_code == 200
-    assert "Réponse mockée" in response.json()["answer"]
+    assert response.json()["answer"] == "Réponse mockée"
