@@ -1,9 +1,13 @@
-import requests
+from fastapi.testclient import TestClient
+from api.main import app
 
-response = requests.post(
-    "http://127.0.0.1:8000/ask",
-    json={"question": "Quels événements culturels à Bordeaux ?"}
-)
+client = TestClient(app)
 
-print("Status code:", response.status_code)
-print("Response JSON:", response.json())
+def test_api_ask():
+    response = client.post(
+        "/ask",
+        json={"question": "Que faire ce week-end ?"}
+    )
+
+    assert response.status_code == 200
+    assert "answer" in response.json()
