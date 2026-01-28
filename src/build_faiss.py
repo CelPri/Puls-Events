@@ -8,7 +8,7 @@ def build_faiss_index():
     with open("data/events_chunks.json", "r", encoding="utf-8") as f:
         chunks = json.load(f)
 
-    # Préparer les documents LangChain
+    # Chaque chunk devient un doc LangChain avec ses métadonnées
     documents = []
     for c in chunks:
         documents.append(
@@ -42,4 +42,4 @@ def build_faiss_index():
 if __name__ == "__main__":
     build_faiss_index()
 
-print("Index Faiss créé et sauvegardé")
+    print("Index Faiss créé et sauvegardé")

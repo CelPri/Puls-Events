@@ -5,7 +5,7 @@ from src.build_faiss import build_faiss_index
 
 
 def test_build_faiss_index_runs():
-    # 1️⃣ Créer un faux fichier events_chunks.json
+    # Créer un faux fichier events_chunks.json
     fake_chunks = [
         {
             "uid": 1,
@@ -18,14 +18,14 @@ def test_build_faiss_index_runs():
         }
     ]
 
-    with open("events_chunks.json", "w", encoding="utf-8") as f:
+    with open("data/events_chunks.json", "w", encoding="utf-8") as f:
         json.dump(fake_chunks, f)
 
-    # 2️⃣ Lancer la fonction
+    # Lancer la fonction
     vectorstore = build_faiss_index()
     assert vectorstore is not None
 
-    # 3️⃣ Nettoyage
-    os.remove("events_chunks.json")
+    # Nettoyage
+    os.remove("data/events_chunks.json")
     if os.path.exists("faiss_index"):
         shutil.rmtree("faiss_index")

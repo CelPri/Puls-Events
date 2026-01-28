@@ -325,7 +325,8 @@ Créez un fichier `.env` à la racine du projet :
 MISTRAL_API_KEY=votre_clé_api_mistral
 
 # OpenAgenda Configuration (optionnel, si modification)
-OPENAGENDA_API_KEY=bb4beba0fed746f9a82473251c59085e
+OPENAGENDA_API_KEY=your_api_key_here
+
 OPENAGENDA_AGENDA_UID=ville-de-bordeaux
 ```
 
@@ -555,7 +556,7 @@ chatbot.answer(question)
     │
     ├─ 1. Date Extraction
     │  • Prompt LLM : Extrait année/mois de la question
-    │  • Retour : {"year": "2026", "month": "08"} ou {}
+    │  • Retour : {"year": "...", "month": "..."} ou {}
     │
     ├─ 2. Retrieval (FAISS)
     │  • Cherche les 500 chunks les plus pertinents
@@ -812,8 +813,6 @@ Pour toute question ou problème :
 Ce projet est fourni à titre de démonstration éducatif dans le cadre de la formation IA.
 
 ---
-
-## 🎓 Créé avec ❤️
 
 Système de Retrieval-Augmented Generation pour les événements culturels de Bordeaux.  
 Framework: **LangChain** | LLM: **Mistral AI** | Vector DB: **FAISS** | API: **FastAPI**

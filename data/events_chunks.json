@@ -1,902 +1,1802 @@
 [
   {
     "uid": 4224965,
-    "title": "Webinaire: 0-3 ans - S'informer sur les modes d'accueil",
-    "start_date": "2025-11-20T12:30:00.000+01:00",
+    "text": "Venez vous informer sur les modes d'accueil pour votre enfant à Bordeaux lors d'un webinaire.",
+    "start_date": "2026-01-29T12:30:00.000+01:00",
     "end_date": "2026-02-26T14:00:00.000+01:00",
+    "title": "Webinaire: 0-3 ans - S'informer sur les modes d'accueil",
     "source": "Ville de Bordeaux",
-    "chunk_id": 0,
-    "text": "Venez vous informer sur les modes d'accueil pour votre enfant à Bordeaux lors d'un webinaire."
+    "chunk_id": 0
   },
   {
     "uid": 84378389,
-    "title": "Le monde d'après, 1944-1954. Des lendemains qui chantent ?",
+    "text": "Visite commentée de l'exposition",
     "start_date": "2025-09-07T15:00:00.000+02:00",
     "end_date": "2025-11-16T16:00:00.000+01:00",
+    "title": "Le monde d'après, 1944-1954. Des lendemains qui chantent ?",
     "source": "Musée d'Aquitaine",
-    "chunk_id": 0,
-    "text": "Visite commentée de l'exposition"
+    "chunk_id": 1
   },
   {
     "uid": 4262637,
-    "title": "Mois de la photo",
+    "text": "En avril dans toute la ville",
     "start_date": "2025-04-01T00:00:00.000+02:00",
     "end_date": "2025-04-30T23:59:00.000+02:00",
+    "title": "Mois de la photo",
     "source": "Ville de Bordeaux",
-    "chunk_id": 0,
-    "text": "En avril dans toute la ville"
+    "chunk_id": 2
   },
   {
     "uid": 23231171,
-    "title": "Le printemps des expressions - PREX",
+    "text": "Le Prex",
     "start_date": "2025-04-25T19:00:00.000+02:00",
     "end_date": "2025-04-25T21:00:00.000+02:00",
+    "title": "Le printemps des expressions - PREX",
     "source": "Ville de Bordeaux",
-    "chunk_id": 0,
-    "text": "Le Prex"
+    "chunk_id": 3
   },
   {
     "uid": 739085,
-    "title": "LES MAL-AIMÉS EXPOSITION PHOTO PAR BASTIEN CAMPISTRON\nDu 2 décembre 2025 au 2 mars 2026",
+    "text": "Le renard mange mes poules ! Le blaireau fait des trous partout ! Les cerfs détruisent mes plantations, les ratons-laveurs semblent tout détruire sur leur passage...",
     "start_date": "2025-12-02T00:00:00.000+01:00",
     "end_date": "2026-03-03T23:58:00.000+01:00",
+    "title": "LES MAL-AIMÉS EXPOSITION PHOTO PAR BASTIEN CAMPISTRON\nDu 2 décembre 2025 au 2 mars 2026",
     "source": "La Maison Écocitoyenne de Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Le renard mange mes poules ! Le blaireau fait des trous partout ! Les cerfs détruisent mes plantations, les ratons-laveurs semblent tout détruire sur leur passage..."
+    "chunk_id": 4
   },
   {
     "uid": 93055359,
-    "title": "Les 111 – 2024 de la Pointe de Grave au Cap Ferret",
+    "text": "Delphine Trentacosta",
     "start_date": "2025-09-17T07:00:00.000+02:00",
     "end_date": "2026-03-31T23:00:00.000+02:00",
+    "title": "Les 111 – 2024 de la Pointe de Grave au Cap Ferret",
     "source": "FAB Festival International des Arts de Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Delphine Trentacosta"
-  },
-  {
-    "uid": 21630474,
-    "title": "Vivre et mourir face à Dieu : la Bible et les guerres de religion françaises",
-    "start_date": "2025-11-13T13:00:00.000+01:00",
-    "end_date": "2026-02-01T18:00:00.000+01:00",
-    "source": "Bibliothèques de Bordeaux",
-    "chunk_id": 0,
-    "text": "Exposition, par la Société des Bibliophiles de Guyenne"
-  },
-  {
-    "uid": 88711121,
-    "title": "Exposition : Voyage au centre de la galaxie",
-    "start_date": "2025-12-18T13:00:00.000+01:00",
-    "end_date": "2026-01-28T19:00:00.000+01:00",
-    "source": "Bibliothèques de Bordeaux",
-    "chunk_id": 0,
-    "text": "Un voyage depuis la Terre jusqu’au trou noir géant au centre de notre galaxie"
-  },
-  {
-    "uid": 21723210,
-    "title": "Le souffle des pinceaux",
-    "start_date": "2025-12-30T13:00:00.000+01:00",
-    "end_date": "2026-01-11T19:00:00.000+01:00",
-    "source": "Exposition de peintures de l’Atelier des jardins",
-    "chunk_id": 0,
-    "text": "Exposition de peintures de l’Atelier des jardins"
-  },
-  {
-    "uid": 48655038,
-    "title": "Exposition : Montaigne en sa tanière",
-    "start_date": "2025-11-03T13:00:00.000+01:00",
-    "end_date": "2026-01-11T18:00:00.000+01:00",
-    "source": "Bibliothèques de Bordeaux",
-    "chunk_id": 0,
-    "text": "Par le collectif artistique La Royal Légendaire"
-  },
-  {
-    "uid": 94274323,
-    "title": "Exposition : Des étoiles dans les yeux",
-    "start_date": "2025-12-01T13:00:00.000+01:00",
-    "end_date": "2026-01-08T19:00:00.000+01:00",
-    "source": "Bibliothèques de Bordeaux",
-    "chunk_id": 0,
-    "text": "Une immersion dans l'astronomie et l'astrophysique"
-  },
-  {
-    "uid": 2041225,
-    "title": "TERRAINS | Sylvain Havec",
-    "start_date": "2025-12-04T13:00:00.000+01:00",
-    "end_date": "2026-01-07T19:00:00.000+01:00",
-    "source": "Bibliothèques de Bordeaux",
-    "chunk_id": 0,
-    "text": "Exposition de dessins et céramiques, atelier dessin avec l'artiste."
-  },
-  {
-    "uid": 48554292,
-    "title": "Conférence d'art moderne - Botticelli",
-    "start_date": "2026-01-05T18:00:00.000+01:00",
-    "end_date": "2026-01-05T20:00:00.000+01:00",
-    "source": "AGJA Bordeaux Caudéran",
-    "chunk_id": 0,
-    "text": "Cette conférence vous plonge pendant 2h au cœur de l’œuvre de Sandro Botticelli, maître incontournable de la Renaissance florentine."
-  },
-  {
-    "uid": 40830427,
-    "title": "Atelier d'anglais pour adolescents",
-    "start_date": "2025-09-22T18:10:00.000+02:00",
-    "end_date": "2026-06-29T19:10:00.000+02:00",
-    "source": "Augustine, école de langues",
-    "chunk_id": 0,
-    "text": "Des ateliers d’anglais ludiques avec professeurs natifs, pour aider les ados à progresser à l’oral en confiance."
-  },
-  {
-    "uid": 94448088,
-    "title": "Effacées. L'enfermement au féminin au château de Cadillac (1822-1951)",
-    "start_date": "2025-12-11T09:00:00.000+01:00",
-    "end_date": "2026-04-26T18:00:00.000+02:00",
-    "source": "Archives départementales de la Gironde",
-    "chunk_id": 0,
-    "text": "Les conditions d’enfermement des femmes condamnées et mineures « préservées » font l'objet d'une exposition aux Archives départementales, révélant 130 années d’une histoire féminine mise sous silence."
-  },
-  {
-    "uid": 56241797,
-    "title": "Les paysages vus du ciel",
-    "start_date": "2025-09-01T09:00:00.000+02:00",
-    "end_date": "2026-01-29T17:30:00.000+01:00",
-    "source": "Maison du jardinier et de la nature en ville",
-    "chunk_id": 0,
-    "text": "Exposition Photo"
-  },
-  {
-    "uid": 80824387,
-    "title": "Le fabuleux destin des déchets ménagers",
-    "start_date": "2025-09-17T09:30:00.000+02:00",
-    "end_date": "2026-05-29T17:00:00.000+02:00",
-    "source": "Archives de Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Une épopée métropolitaine. XIVe - XXIe siècle."
-  },
-  {
-    "uid": 96537956,
-    "title": "Extraordinaire !",
-    "start_date": "2025-11-06T09:30:00.000+01:00",
-    "end_date": "2026-01-23T17:00:00.000+01:00",
-    "source": "Archives de Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Une sélection de documents d’origine privée, 2016-2024"
-  },
-  {
-    "uid": 56044546,
-    "title": "L'arbre un patrimoine à préserver",
-    "start_date": "2025-12-05T10:00:00.000+01:00",
-    "end_date": "2026-03-02T17:00:00.000+01:00",
-    "source": "L'arbre en fête 2025 à Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Une exposition à découvrir en famille  sur le thème des arbres, patrimoine  essentiel à la biodiversité en ville"
-  },
-  {
-    "uid": 77258328,
-    "title": "Exposition \"L'Arbre un patrimoine à conserver\"",
-    "start_date": "2025-12-05T10:00:00.000+01:00",
-    "end_date": "2026-03-01T18:00:00.000+01:00",
-    "source": "Ville de Gradignan",
-    "chunk_id": 0,
-    "text": "Rendez-vous à la Maison de la Nature pour une exposition sur le thème des arbres."
-  },
-  {
-    "uid": 19795485,
-    "title": "L'expérience immersive au cœur des Essais",
-    "start_date": "2025-11-24T13:00:00.000+01:00",
-    "end_date": "2026-01-10T18:00:00.000+01:00",
-    "source": "Bibliothèques de Bordeaux",
-    "chunk_id": 0,
-    "text": "Space Montaigne"
-  },
-  {
-    "uid": 45615874,
-    "title": "Gravures",
-    "start_date": "2025-11-13T14:00:00.000+01:00",
-    "end_date": "2026-01-07T18:00:00.000+01:00",
-    "source": "Bibliothèques de Bordeaux",
-    "chunk_id": 0,
-    "text": "Découverte de la technique de la gravure à travers les étonnantes compositions de Jean-Pierre David."
-  },
-  {
-    "uid": 40444807,
-    "title": "Orang-Hutan, l'homme de la forêt",
-    "start_date": "2025-11-04T10:30:00.000+01:00",
-    "end_date": "2026-02-28T17:30:00.000+01:00",
-    "source": "Muséum de Bordeaux - sciences et nature",
-    "chunk_id": 0,
-    "text": "Découvrez Besar, un orang-outan naturalisé, au cœur d’une scénographie poignante sur la disparition des grands primates et les conséquences des activités humaines sur leur habitat."
-  },
-  {
-    "uid": 97291667,
-    "title": "Contre-nature, dessiner l'Anthropocène",
-    "start_date": "2025-12-18T11:00:00.000+01:00",
-    "end_date": "2026-04-19T18:00:00.000+02:00",
-    "source": "JARDIN BOTANIQUE BORDEAUX",
-    "chunk_id": 0,
-    "text": "Une exposition des œuvres de l'artiste 1011"
-  },
-  {
-    "uid": 24410568,
-    "title": "Lune, Préparez, explorez, rêvez !",
-    "start_date": "2025-10-04T14:00:00.000+02:00",
-    "end_date": "2026-08-31T18:00:00.000+02:00",
-    "source": "Cap Sciences",
-    "chunk_id": 0,
-    "text": "Et si on y retournait ?"
-  },
-  {
-    "uid": 50558622,
-    "title": "Rallye Gourmand Sucré",
-    "start_date": "2025-04-29T14:00:00.000+02:00",
-    "end_date": "2026-08-01T16:00:00.000+02:00",
-    "source": "Bordeaux Visite",
-    "chunk_id": 0,
-    "text": "Départ du jeu : Tour Pey Berland; Arrivée: Place de la Bourse"
-  },
-  {
-    "uid": 70102495,
-    "title": "Bienvenue chez les Préhistos !",
-    "start_date": "2025-09-27T14:00:00.000+02:00",
-    "end_date": "2026-03-22T19:00:00.000+01:00",
-    "source": "Cap Sciences",
-    "chunk_id": 0,
-    "text": "La Préhistoire plus humaine et plus concrète !"
-  },
-  {
-    "uid": 50644266,
-    "title": "Réinventer l'école",
-    "start_date": "2025-12-11T17:30:00.000+01:00",
-    "end_date": "2026-01-20T11:30:00.000+01:00",
-    "source": "MAP Galeria",
-    "chunk_id": 0,
-    "text": "Exposition photo : Réinventer l'école de  Nicolas Camoissson"
-  },
-  {
-    "uid": 35748840,
-    "title": "Jeu de piste: \"Le voleur du Grand Théâtre\"",
-    "start_date": "2025-01-18T10:00:00.000+01:00",
-    "end_date": "2026-01-09T16:30:00.000+01:00",
-    "source": "Bordeaux Visite",
-    "chunk_id": 0,
-    "text": "Une visite de Bordeaux originale et ludique. Glissez-vous dans la peau de détectives et menez une enquête inédite !"
-  },
-  {
-    "uid": 71011803,
-    "title": "Les mardis des sciences",
-    "start_date": "2025-10-07T16:30:00.000+02:00",
-    "end_date": "2026-06-02T19:00:00.000+02:00",
-    "source": "Cap Sciences",
-    "chunk_id": 0,
-    "text": "Le rendez-vous incontournable des curieux de la culture scientifique !"
-  },
-  {
-    "uid": 48752338,
-    "title": "Cours de dessin",
-    "start_date": "2025-09-09T18:30:00.000+02:00",
-    "end_date": "2026-07-28T20:30:00.000+02:00",
-    "source": "Carte jeune Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Tous niveaux"
-  },
-  {
-    "uid": 66889175,
-    "title": "Ateliers d’anglais pour adultes – Offre Carte Jeune Bordeaux",
-    "start_date": "2025-09-15T14:00:00.000+02:00",
-    "end_date": "2026-06-30T20:30:00.000+02:00",
-    "source": "Augustine, école de langues",
-    "chunk_id": 0,
-    "text": "Boostez votre anglais à l’oral dans une ambiance conviviale, avec des professeurs natifs. Tous niveaux, cours en journée ou en soirée. -15% pour les moins de 26 ans !"
-  },
-  {
-    "uid": 73998014,
-    "title": "Rentrée des cours de danses swing : LINDY HOP DEBUTANT - BORDEAUX - Salle Hâ 32",
-    "start_date": "2025-09-30T20:00:00.000+02:00",
-    "end_date": "2026-06-23T21:00:00.000+02:00",
-    "source": "Carte jeune Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Rentrée des cours de danses swing : LINDY HOP DEBUTANT - BORDEAUX - Salle Hâ 32"
-  },
-  {
-    "uid": 48466259,
-    "title": "Una hora con Frida Kahlo",
-    "start_date": "2025-10-14T20:00:00.000+02:00",
-    "end_date": "2026-02-24T21:30:00.000+01:00",
-    "source": "Théâtre Trianon",
-    "chunk_id": 0,
-    "text": "En juillet 1954, s’éteignait l’une des figures les plus intrigantes du XXème siècle : l’artiste mexicaine Frida Kahlo. 70 ans après sa disparition, son œuvre continue de passionner."
-  },
-  {
-    "uid": 90133492,
-    "title": "Le fabuleux destin de Mathilde Chatin (chansons originales)",
-    "start_date": "2025-09-06T20:30:00.000+02:00",
-    "end_date": "2026-06-27T21:30:00.000+02:00",
-    "source": "arteviva",
-    "chunk_id": 0,
-    "text": "Mathilde vous conte ses joies, ses peines, ses fantasmes, ses délires, parfois avec une touche d'humour, du haut de ses 22 ans ! - Tout public - Durée : 1h"
+    "chunk_id": 5
   },
   {
     "uid": 10186032,
-    "title": "Ateliers d’architecture pour les enfants",
+    "text": "Participez à un atelier dédié à la sensibilisation à l’architecture et à la ville pour les enfants.",
     "start_date": "2025-09-17T09:00:00.000+02:00",
     "end_date": "2026-06-03T17:00:00.000+02:00",
+    "title": "Ateliers d’architecture pour les enfants",
     "source": "Un air de Bordeaux",
-    "chunk_id": 0,
-    "text": "Participez à un atelier dédié à la sensibilisation à l’architecture et à la ville pour les enfants."
+    "chunk_id": 6
+  },
+  {
+    "uid": 94448088,
+    "text": "Les conditions d’enfermement des femmes condamnées et mineures « préservées » font l'objet d'une exposition aux Archives départementales, révélant 130 années d’une histoire féminine mise sous silence.",
+    "start_date": "2025-12-11T09:00:00.000+01:00",
+    "end_date": "2026-04-26T18:00:00.000+02:00",
+    "title": "Effacées. L'enfermement au féminin au château de Cadillac (1822-1951)",
+    "source": "Archives départementales de la Gironde",
+    "chunk_id": 7
+  },
+  {
+    "uid": 56241797,
+    "text": "Exposition Photo",
+    "start_date": "2025-09-01T09:00:00.000+02:00",
+    "end_date": "2026-02-27T17:30:00.000+01:00",
+    "title": "Les paysages vus du ciel",
+    "source": "Maison du jardinier et de la nature en ville",
+    "chunk_id": 8
+  },
+  {
+    "uid": 85330948,
+    "text": "un intervenant spécialiste propose des cycles d’ateliers numériques autour de thématiques identifiées par les seniors",
+    "start_date": "2026-01-14T09:00:00.000+01:00",
+    "end_date": "2026-01-30T12:00:00.000+01:00",
+    "title": "Les stages informatiques",
+    "source": "Bordeaux Seniors",
+    "chunk_id": 9
+  },
+  {
+    "uid": 80824387,
+    "text": "Une épopée métropolitaine. XIVe - XXIe siècle.",
+    "start_date": "2025-09-17T09:30:00.000+02:00",
+    "end_date": "2026-05-29T17:00:00.000+02:00",
+    "title": "Le fabuleux destin des déchets ménagers",
+    "source": "Archives de Bordeaux Métropole",
+    "chunk_id": 10
+  },
+  {
+    "uid": 96537956,
+    "text": "Une sélection de documents d’origine privée, 2016-2024",
+    "start_date": "2025-11-06T09:30:00.000+01:00",
+    "end_date": "2026-02-27T17:00:00.000+01:00",
+    "title": "Extraordinaire !",
+    "source": "Archives de Bordeaux Métropole",
+    "chunk_id": 11
+  },
+  {
+    "uid": 56044546,
+    "text": "Une exposition à découvrir en famille  sur le thème des arbres, patrimoine  essentiel à la biodiversité en ville",
+    "start_date": "2025-12-05T10:00:00.000+01:00",
+    "end_date": "2026-03-02T17:00:00.000+01:00",
+    "title": "L'arbre un patrimoine à préserver",
+    "source": "L'arbre en fête 2025 à Bordeaux Métropole",
+    "chunk_id": 12
+  },
+  {
+    "uid": 77258328,
+    "text": "Rendez-vous à la Maison de la Nature pour une exposition sur le thème des arbres.",
+    "start_date": "2025-12-05T10:00:00.000+01:00",
+    "end_date": "2026-03-01T18:00:00.000+01:00",
+    "title": "Exposition \"L'Arbre un patrimoine à conserver\"",
+    "source": "Ville de Gradignan",
+    "chunk_id": 13
+  },
+  {
+    "uid": 85408400,
+    "text": "Rendez-vous personnalisés d'une heure pour répondre à vos questions sur le numérique.",
+    "start_date": "2026-01-21T10:00:00.000+01:00",
+    "end_date": "2026-02-27T17:00:00.000+01:00",
+    "title": "Soluces - Mériadeck",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 14
+  },
+  {
+    "uid": 6744554,
+    "text": "Exposition de peintures et textes de Nadia Benabbas.",
+    "start_date": "2026-01-08T14:00:00.000+01:00",
+    "end_date": "2026-02-18T18:00:00.000+01:00",
+    "title": "Nadia Benabbas : D'une rive à l'autre...Maroc-Bordeaux, Ici où là. Rester soi-même.",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 15
+  },
+  {
+    "uid": 49768180,
+    "text": "Pour les bébés, de 0 à 3 ans",
+    "start_date": "2026-01-20T10:00:00.000+01:00",
+    "end_date": "2026-02-14T18:00:00.000+01:00",
+    "title": "Parcours de motricité",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 16
+  },
+  {
+    "uid": 68962025,
+    "text": "Exposition participative",
+    "start_date": "2026-01-20T10:00:00.000+01:00",
+    "end_date": "2026-02-14T18:00:00.000+01:00",
+    "title": "Portraits de doudous",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 17
+  },
+  {
+    "uid": 95110704,
+    "text": "Le Mois des petits revient pour (r)éveiller les jeunes enfants avec de nombreuses propositions culturelles. Julien Béziat est le parrain de cette édition.",
+    "start_date": "2026-01-20T10:00:00.000+01:00",
+    "end_date": "2026-02-14T18:00:00.000+01:00",
+    "title": "Le Mois des petits dans les bibliothèques de Bordeaux",
+    "source": "Ville de Bordeaux",
+    "chunk_id": 18
+  },
+  {
+    "uid": 37182298,
+    "text": "Vernissage et exposition des artistes lauréats de l'année 2025",
+    "start_date": "2026-01-15T13:00:00.000+01:00",
+    "end_date": "2026-02-11T19:00:00.000+01:00",
+    "title": "J'expose, je m'expose",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 19
+  },
+  {
+    "uid": 21630474,
+    "text": "Exposition, par la Société des Bibliophiles de Guyenne",
+    "start_date": "2025-11-13T13:00:00.000+01:00",
+    "end_date": "2026-02-01T18:00:00.000+01:00",
+    "title": "Vivre et mourir face à Dieu : la Bible et les guerres de religion françaises",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 20
+  },
+  {
+    "uid": 88711121,
+    "text": "Un voyage depuis la Terre jusqu’au trou noir géant au centre de notre galaxie",
+    "start_date": "2025-12-18T13:00:00.000+01:00",
+    "end_date": "2026-01-28T19:00:00.000+01:00",
+    "title": "Exposition : Voyage au centre de la galaxie",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 21
   },
   {
     "uid": 82216503,
-    "title": "Atelier argile-modelage",
+    "text": "Atelier hebdomadaire, découverte de l'argile et création d'objets ou de sculptures. Ouvert aux adultes aux enfants.",
     "start_date": "2025-09-17T10:30:00.000+02:00",
     "end_date": "2026-06-17T12:00:00.000+02:00",
+    "title": "Atelier argile-modelage",
     "source": "Carte jeune Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Atelier hebdomadaire, découverte de l'argile et création d'objets ou de sculptures. Ouvert aux adultes aux enfants."
+    "chunk_id": 22
+  },
+  {
+    "uid": 40444807,
+    "text": "Découvrez Besar, un orang-outan naturalisé, au cœur d’une scénographie poignante sur la disparition des grands primates et les conséquences des activités humaines sur leur habitat.",
+    "start_date": "2025-11-04T10:30:00.000+01:00",
+    "end_date": "2026-02-28T17:30:00.000+01:00",
+    "title": "Orang-Hutan, l'homme de la forêt",
+    "source": "Muséum de Bordeaux - sciences et nature",
+    "chunk_id": 23
   },
   {
     "uid": 29380963,
-    "title": "Les ateliers d'éveil à l'art ABCD'ART",
+    "text": "Ateliers 3-11 ans pour découvrir l'art, jouer et créer",
     "start_date": "2025-11-05T10:30:00.000+01:00",
     "end_date": "2026-02-04T16:00:00.000+01:00",
+    "title": "Les ateliers d'éveil à l'art ABCD'ART",
     "source": "Les ateliers d'éveil à l'art ABCD'ART",
-    "chunk_id": 0,
-    "text": "Ateliers 3-11 ans pour découvrir l'art, jouer et créer"
+    "chunk_id": 24
+  },
+  {
+    "uid": 40411303,
+    "text": "Atelier jeunesse",
+    "start_date": "2026-01-21T10:30:00.000+01:00",
+    "end_date": "2026-01-21T11:30:00.000+01:00",
+    "title": "Le voyage de Doudou",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 25
+  },
+  {
+    "uid": 46093300,
+    "text": "Atelier créatif et participatif de dessin avec Julien Béziat",
+    "start_date": "2026-01-21T10:30:00.000+01:00",
+    "end_date": "2026-01-21T11:00:00.000+01:00",
+    "title": "Le petit monde de Berk",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 26
+  },
+  {
+    "uid": 42345854,
+    "text": "\"Pollen\" est le troisième des récits de collection du Capc Musée d'art contemporain de Bordeaux et fait suite au \"Tour du jour en quatre-vingts mondes\" ainsi qu’à \"Amour Systémique\".",
+    "start_date": "2025-03-28T11:00:00.000+01:00",
+    "end_date": "2027-01-31T18:00:00.000+01:00",
+    "title": "Exposition \"Pollen\"",
+    "source": "Capc Musée d'art contemporain de Bordeaux",
+    "chunk_id": 27
+  },
+  {
+    "uid": 97291667,
+    "text": "Une exposition des œuvres de l'artiste 1011",
+    "start_date": "2025-12-18T11:00:00.000+01:00",
+    "end_date": "2026-04-19T18:00:00.000+02:00",
+    "title": "Contre-nature, dessiner l'Anthropocène",
+    "source": "JARDIN BOTANIQUE BORDEAUX",
+    "chunk_id": 28
+  },
+  {
+    "uid": 4121720,
+    "text": "Le collectif Popote Story et VRAC Bordeaux vous invitent à découvrir une exposition originale, conviviale et savoureuse autour d’un aliment du quotidien : la lentille !",
+    "start_date": "2026-01-21T11:00:00.000+01:00",
+    "end_date": "2026-03-28T18:00:00.000+01:00",
+    "title": "LA LENTILLE DANS TOUS SES ÉTATS AVEC VRAC BORDEAUX\nDu 21 janvier au 28 mars 2026",
+    "source": "La Maison Écocitoyenne de Bordeaux Métropole",
+    "chunk_id": 29
+  },
+  {
+    "uid": 3767669,
+    "text": "Nouvelles saisons rassemble récits, explorations et documents proposés par 50 contributeurs qui dressent un portrait du territoire girondin et ses transformations sociétales et environnementales.",
+    "start_date": "2025-02-20T11:00:00.000+01:00",
+    "end_date": "2026-03-22T18:00:00.000+01:00",
+    "title": "Nouvelles saisons, autoportraits d'un territoire",
+    "source": "Bordeaux Métropole",
+    "chunk_id": 30
+  },
+  {
+    "uid": 68472919,
+    "text": "Une exposition qui revient sur les projets lauréats et finalistes de la première édition du Prix européen pour le logement collectif",
+    "start_date": "2025-11-27T11:00:00.000+01:00",
+    "end_date": "2026-03-01T18:00:00.000+01:00",
+    "title": "Habiter ensemble, Prix européen pour le logement collectif",
+    "source": "Bordeaux Métropole",
+    "chunk_id": 31
   },
   {
     "uid": 17298694,
-    "title": "POURQUOI JE NE FAIS RIEN ? AVEC LES PETITS DÉBROUILLARDS\nDu 1er octobre 2025 au 31 janvier 2026",
+    "text": "Pour lutter contre le réchauffement climatique, il nous faut réduire nos émissions de gaz à effet de serre dans tous les aspects de nos vies afin d'atteindre la neutralité carbone.",
     "start_date": "2025-10-01T11:00:00.000+02:00",
     "end_date": "2026-01-31T18:00:00.000+01:00",
+    "title": "POURQUOI JE NE FAIS RIEN ? AVEC LES PETITS DÉBROUILLARDS\nDu 1er octobre 2025 au 31 janvier 2026",
     "source": "La Maison Écocitoyenne de Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Pour lutter contre le réchauffement climatique, il nous faut réduire nos émissions de gaz à effet de serre dans tous les aspects de nos vies afin d'atteindre la neutralité carbone."
+    "chunk_id": 32
   },
   {
     "uid": 75970751,
-    "title": "Exposition Interférences d'Anaïs Gauthier",
+    "text": "28 novembre 2025 > 24 janvier 2026",
     "start_date": "2025-11-28T11:00:00.000+01:00",
     "end_date": "2026-01-24T18:00:00.000+01:00",
+    "title": "Exposition Interférences d'Anaïs Gauthier",
     "source": "BAM projects",
-    "chunk_id": 0,
-    "text": "28 novembre 2025 > 24 janvier 2026"
+    "chunk_id": 33
+  },
+  {
+    "uid": 41325386,
+    "text": "Jeu de piste dans le cadre de la Semaine de culture scientifique",
+    "start_date": "2026-01-21T13:00:00.000+01:00",
+    "end_date": "2026-01-22T19:00:00.000+01:00",
+    "title": "Le Mystère des 5 îles",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 34
+  },
+  {
+    "uid": 24410568,
+    "text": "Et si on y retournait ?",
+    "start_date": "2025-10-04T14:00:00.000+02:00",
+    "end_date": "2026-08-31T18:00:00.000+02:00",
+    "title": "Lune, Préparez, explorez, rêvez !",
+    "source": "Cap Sciences",
+    "chunk_id": 35
+  },
+  {
+    "uid": 35748840,
+    "text": "Une visite de Bordeaux originale et ludique. Glissez-vous dans la peau de détectives et menez une enquête inédite !",
+    "start_date": "2026-01-21T14:00:00.000+01:00",
+    "end_date": "2026-08-28T16:00:00.000+02:00",
+    "title": "Jeu de piste: \"Le voleur du Grand Théâtre\"",
+    "source": "Bordeaux Visite",
+    "chunk_id": 36
+  },
+  {
+    "uid": 50558622,
+    "text": "Départ du jeu : Tour Pey Berland; Arrivée: Place de la Bourse",
+    "start_date": "2025-04-29T14:00:00.000+02:00",
+    "end_date": "2026-08-01T16:00:00.000+02:00",
+    "title": "Rallye Gourmand Sucré",
+    "source": "Bordeaux Visite",
+    "chunk_id": 37
+  },
+  {
+    "uid": 40830427,
+    "text": "Des ateliers d’anglais ludiques avec professeurs natifs, pour aider les ados à progresser à l’oral en confiance.",
+    "start_date": "2025-09-22T18:10:00.000+02:00",
+    "end_date": "2026-06-29T19:10:00.000+02:00",
+    "title": "Atelier d'anglais pour adolescents",
+    "source": "Augustine, école de langues",
+    "chunk_id": 38
+  },
+  {
+    "uid": 70102495,
+    "text": "La Préhistoire plus humaine et plus concrète !",
+    "start_date": "2025-09-27T14:00:00.000+02:00",
+    "end_date": "2026-03-22T19:00:00.000+01:00",
+    "title": "Bienvenue chez les Préhistos !",
+    "source": "Cap Sciences",
+    "chunk_id": 39
+  },
+  {
+    "uid": 5433145,
+    "text": "Redécouvrez les meilleurs films de 2025 grâce au festival Télérama au cinéma La Lanterne du 21 au 27 janvier",
+    "start_date": "2026-01-21T14:00:00.000+01:00",
+    "end_date": "2026-01-27T23:00:00.000+01:00",
+    "title": "Festival Télérama",
+    "source": "Cinéma La Lanterne",
+    "chunk_id": 40
+  },
+  {
+    "uid": 27244743,
+    "text": "Action de sensibilisation à la santé des femmes, avec un double focus sur les cancers féminins et la santé-bien-être.",
+    "start_date": "2026-01-21T14:00:00.000+01:00",
+    "end_date": "2026-01-21T17:00:00.000+01:00",
+    "title": "Action Santé de la Femme – CPTS Nord Bordeaux",
+    "source": "CPTS Nord Bordeaux",
+    "chunk_id": 41
+  },
+  {
+    "uid": 3145669,
+    "text": "Envolez-vous sans vous plumer !",
+    "start_date": "2026-01-21T14:00:00.000+01:00",
+    "end_date": "2026-01-21T16:00:00.000+01:00",
+    "title": "Parcours se déplacer",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 42
+  },
+  {
+    "uid": 89154384,
+    "text": "Je fais mon premier dessin animé sur ordinateur.",
+    "start_date": "2026-01-21T14:00:00.000+01:00",
+    "end_date": "2026-01-21T16:00:00.000+01:00",
+    "title": "Le FabLab du Mercredi : Atelier dessin animé",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 43
+  },
+  {
+    "uid": 99568078,
+    "text": "Il n'y a pas de saison pour les massages ! Par contre, les plantes que l'on peut utiliser pour confectionner une huile de massage 100% naturelle, elles, changent selon la saison !",
+    "start_date": "2026-01-21T14:00:00.000+01:00",
+    "end_date": "2026-01-21T16:00:00.000+01:00",
+    "title": "Réalisez votre huile de massage à partir de plantes sauvages et huiles essentielles avec Nos Deux Mains",
+    "source": "La Maison Écocitoyenne de Bordeaux Métropole",
+    "chunk_id": 44
+  },
+  {
+    "uid": 6207694,
+    "text": "Atelier dessin avec Julien Béziat",
+    "start_date": "2026-01-21T14:00:00.000+01:00",
+    "end_date": "2026-01-21T15:00:00.000+01:00",
+    "title": "Le petit monde de Berk",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 45
+  },
+  {
+    "uid": 95212685,
+    "text": "Echoppe seniors Billaudel",
+    "start_date": "2026-01-21T14:30:00.000+01:00",
+    "end_date": "2026-06-24T16:00:00.000+02:00",
+    "title": "Atelier Dessin au Fusain",
+    "source": "Bordeaux Seniors",
+    "chunk_id": 46
   },
   {
     "uid": 5379936,
-    "title": "Atelier Arts Plastiques",
+    "text": "Atelier découverte et exploration de différentes techniques artistiques.",
     "start_date": "2025-09-17T14:30:00.000+02:00",
     "end_date": "2026-06-17T16:00:00.000+02:00",
+    "title": "Atelier Arts Plastiques",
     "source": "Carte jeune Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Atelier découverte et exploration de différentes techniques artistiques."
+    "chunk_id": 47
+  },
+  {
+    "uid": 7184961,
+    "text": "à l'échoppe seniors Billaudel",
+    "start_date": "2026-01-07T14:30:00.000+01:00",
+    "end_date": "2026-01-28T15:30:00.000+01:00",
+    "title": "Dessin au fusain",
+    "source": "Bordeaux Seniors",
+    "chunk_id": 48
   },
   {
     "uid": 65949741,
-    "title": "Cirque Arlette Gruss : le nouveau spectacle à Bordeaux",
+    "text": "Le cirque Arlette Gruss est de retour à Bordeaux avec son nouveau spectacle \"Parenthèse\"!",
     "start_date": "2025-12-19T19:00:00.000+01:00",
     "end_date": "2026-01-25T19:00:00.000+01:00",
+    "title": "Cirque Arlette Gruss : le nouveau spectacle à Bordeaux",
     "source": "Un air de Bordeaux",
-    "chunk_id": 0,
-    "text": "Le cirque Arlette Gruss est de retour à Bordeaux avec son nouveau spectacle \"Parenthèse\"!"
+    "chunk_id": 49
+  },
+  {
+    "uid": 63807971,
+    "text": "Au milieu d’un joyeux désordre de branches, de planches et de ficelle, Sylvestre construit sa forêt. Une cabane, un arbre, une porte, une table ? Tout prend vie entre ses mains.",
+    "start_date": "2026-01-21T14:30:00.000+01:00",
+    "end_date": "2026-01-24T15:40:00.000+01:00",
+    "title": "Une forêt en bois...construire - La Mâchoire 36",
+    "source": "Scène nationale Carré-Colonnes",
+    "chunk_id": 50
+  },
+  {
+    "uid": 46488471,
+    "text": "Une comédie musicale familiale qui fait la part belle au jeu, à la danse et aux chansons !",
+    "start_date": "2026-01-21T14:30:00.000+01:00",
+    "end_date": "2026-01-21T16:00:00.000+01:00",
+    "title": "Flash - Le petit papillon dont les minutes sont contées",
+    "source": "Le Pin Galant",
+    "chunk_id": 51
+  },
+  {
+    "uid": 10853475,
+    "text": "quiz sur la vie dans les années 50",
+    "start_date": "2026-01-21T14:30:00.000+01:00",
+    "end_date": "2026-01-21T15:30:00.000+01:00",
+    "title": "Archives avec Guillaume Mousteils",
+    "source": "Bordeaux Seniors",
+    "chunk_id": 52
+  },
+  {
+    "uid": 76631837,
+    "text": "(Sur inscription) : 15 €",
+    "start_date": "2026-01-21T14:30:00.000+01:00",
+    "end_date": "2026-01-21T15:30:00.000+01:00",
+    "title": "Sortie Cirque Arlette Gruss aux Quinconces",
+    "source": "Bordeaux Seniors",
+    "chunk_id": 53
+  },
+  {
+    "uid": 60474300,
+    "text": "Découvrez notre programmation famille et jeunesse, janvier-juin 2026",
+    "start_date": "2026-01-21T15:00:00.000+01:00",
+    "end_date": "2026-06-17T16:30:00.000+02:00",
+    "title": "Les visites et ateliers jeune public du MusBA [0-15 ans] !",
+    "source": "Musée des Beaux-Arts Bordeaux",
+    "chunk_id": 54
+  },
+  {
+    "uid": 5992933,
+    "text": "Atelier dessin avec Julien Béziat",
+    "start_date": "2026-01-21T16:00:00.000+01:00",
+    "end_date": "2026-01-21T17:00:00.000+01:00",
+    "title": "Le petit monde de Berk",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 55
   },
   {
     "uid": 80222298,
-    "title": "Atelier de langue et culture occitanes (variante gasconne)",
+    "text": "Cours convivial du soir multi-niveau de (re)découverte du gascon à travers son apprentissage, son écriture mais aussi l'histoire, la culture et les traditions occitanes.",
     "start_date": "2025-10-01T18:00:00.000+02:00",
     "end_date": "2026-06-24T19:30:00.000+02:00",
+    "title": "Atelier de langue et culture occitanes (variante gasconne)",
     "source": "Visites & conférences : Bordeaux et la Nouvelle-Aquitaine en VO",
-    "chunk_id": 0,
-    "text": "Cours convivial du soir multi-niveau de (re)découverte du gascon à travers son apprentissage, son écriture mais aussi l'histoire, la culture et les traditions occitanes."
+    "chunk_id": 56
+  },
+  {
+    "uid": 72301101,
+    "text": "Quand les nuits tombent plus vite et que le thermomètre fait grise mine, on rallume la flamme au cœur de Darwin : Quiz culture, braseros, bières bio Lalune, cocktails maison, djset solaire...",
+    "start_date": "2026-01-07T18:00:00.000+01:00",
+    "end_date": "2026-02-25T23:30:00.000+01:00",
+    "title": "TOUS LES MERCREDIS - LES HEURES CHALEUREUSES AGITENT LE MAGASIN GÉNÉRAL !",
+    "source": "Darwin Éco-système · Bordeaux, rive droite.",
+    "chunk_id": 57
+  },
+  {
+    "uid": 93717203,
+    "text": "Venez rencontrer Lionel Shriver à l’occasion de la sortie de son livre \"Hystérie collective\" aux éditions Belfond. En partenariat avec le festival Lettres du Monde.",
+    "start_date": "2026-01-21T18:00:00.000+01:00",
+    "end_date": "2026-01-21T19:30:00.000+01:00",
+    "title": "Rencontre avec Lionel Shriver",
+    "source": "Librairie Mollat",
+    "chunk_id": 58
   },
   {
     "uid": 35458793,
-    "title": "Afterworks du Poney Fringant (mercredi) — Ludothèque & Bar à Jeux",
+    "text": "Votre nouveau QG du mercredi soir, c’est ici ! De 18h30 à 22h, on sort les jeux, on sort les planches, on sort les pintes et on décompresse !",
     "start_date": "2025-10-01T18:30:00.000+02:00",
     "end_date": "2026-07-29T22:00:00.000+02:00",
+    "title": "Afterworks du Poney Fringant (mercredi) — Ludothèque & Bar à Jeux",
     "source": "Union Saint-Jean",
-    "chunk_id": 0,
-    "text": "Votre nouveau QG du mercredi soir, c’est ici ! De 18h30 à 22h, on sort les jeux, on sort les planches, on sort les pintes et on décompresse !"
+    "chunk_id": 59
   },
   {
     "uid": 33923806,
-    "title": "Cours de peinture",
+    "text": "Tous niveaux",
     "start_date": "2025-09-10T18:30:00.000+02:00",
     "end_date": "2026-07-29T20:30:00.000+02:00",
+    "title": "Cours de peinture",
     "source": "Carte jeune Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Tous niveaux"
+    "chunk_id": 60
+  },
+  {
+    "uid": 66889175,
+    "text": "Boostez votre anglais à l’oral dans une ambiance conviviale, avec des professeurs natifs. Tous niveaux, cours en journée ou en soirée. -15% pour les moins de 26 ans !",
+    "start_date": "2025-09-15T14:00:00.000+02:00",
+    "end_date": "2026-06-30T20:30:00.000+02:00",
+    "title": "Ateliers d’anglais pour adultes – Offre Carte Jeune Bordeaux",
+    "source": "Augustine, école de langues",
+    "chunk_id": 61
+  },
+  {
+    "uid": 10433306,
+    "text": "Venez rencontrer Didier Castino auteur de \"L'application des peines\" aux éditions Les Avrils.",
+    "start_date": "2026-01-21T18:30:00.000+01:00",
+    "end_date": "2026-01-21T20:00:00.000+01:00",
+    "title": "Rencontre Angle Droit : écrire la prison penser les peines",
+    "source": "Librairie Mollat",
+    "chunk_id": 62
   },
   {
     "uid": 9294530,
-    "title": "Rentrée des cours de danses swing : LINDY HOP DEBUTANT - Bordeaux - Studio 71",
+    "text": "Rentrée des cours de danses swing : LINDY HOP DEBUTANT - Bordeaux - Studio 71",
     "start_date": "2025-10-01T19:00:00.000+02:00",
     "end_date": "2026-06-24T20:00:00.000+02:00",
+    "title": "Rentrée des cours de danses swing : LINDY HOP DEBUTANT - Bordeaux - Studio 71",
     "source": "Carte jeune Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Rentrée des cours de danses swing : LINDY HOP DEBUTANT - Bordeaux - Studio 71"
+    "chunk_id": 63
   },
   {
-    "uid": 89738110,
-    "title": "Ateliers photo longue durée de novembre à janvier",
-    "start_date": "2025-11-05T19:00:00.000+01:00",
-    "end_date": "2026-02-27T11:30:00.000+01:00",
-    "source": "Carte jeune Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Trois formats d’ateliers long sont proposé pour finir l’année 2025 en beauté!! Il reste encore des places c’est le moment de s’inscrire!!"
+    "uid": 22177535,
+    "text": "On commence 2026 avec un quizz de culture général ! À 5 minutes de la gare Saint-Jean → Poney Fringant !",
+    "start_date": "2026-01-21T19:00:00.000+01:00",
+    "end_date": "2026-01-21T22:00:00.000+01:00",
+    "title": "Quizz culture G — Poney Fringant",
+    "source": "Union Saint-Jean",
+    "chunk_id": 64
+  },
+  {
+    "uid": 50920315,
+    "text": "Les Rencontres de la forme courte dans les arts vivants",
+    "start_date": "2026-01-20T19:00:00.000+01:00",
+    "end_date": "2026-01-21T22:00:00.000+01:00",
+    "title": "Festival Trente Trente - Soirées au tnba",
+    "source": "Compagnie Les Marches de l'Été",
+    "chunk_id": 65
+  },
+  {
+    "uid": 98837956,
+    "text": "LEONARD COHEN NAISSANCE D'UN SONGWRITER conférence – concert par PASCAL BOUAZIZ",
+    "start_date": "2026-01-21T19:30:00.000+01:00",
+    "end_date": "2026-01-21T21:30:00.000+01:00",
+    "title": "LEONARD COHEN\nNAISSANCE D'UN SONGWRITER\nconférence – concert par PASCAL BOUAZIZ",
+    "source": "L'Inconnue",
+    "chunk_id": 66
   },
   {
     "uid": 67241528,
+    "text": "Toujours la même ambiance folle, des humoristes de talent et 1h30 de stand-up face à la Garonne.",
+    "start_date": "2026-01-07T20:00:00.000+01:00",
+    "end_date": "2026-06-24T23:00:00.000+02:00",
     "title": "La Marelle verte - Comedy Club au Chantiers de la Garonne",
-    "start_date": "2025-11-19T20:00:00.000+01:00",
-    "end_date": "2026-09-23T23:00:00.000+02:00",
     "source": "Darwin Éco-système · Bordeaux, rive droite.",
-    "chunk_id": 0,
-    "text": "Toujours la même ambiance folle, des humoristes de talent et 1h30 de stand-up face à la Garonne."
+    "chunk_id": 67
   },
   {
     "uid": 66971748,
-    "title": "Rentrée des cours de danses swing : BLUES DEBUTANT - Bordeaux",
+    "text": "Rentrée des cours de danses swing : BLUES DEBUTANT - Bordeaux",
     "start_date": "2025-10-01T20:00:00.000+02:00",
     "end_date": "2026-06-24T21:00:00.000+02:00",
+    "title": "Rentrée des cours de danses swing : BLUES DEBUTANT - Bordeaux",
     "source": "Carte jeune Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Rentrée des cours de danses swing : BLUES DEBUTANT - Bordeaux"
-  },
-  {
-    "uid": 59666297,
-    "title": "Les femmes ont toujours raison, les hommes n'ont jamais tort !",
-    "start_date": "2025-11-21T21:30:00.000+01:00",
-    "end_date": "2026-03-07T23:00:00.000+01:00",
-    "source": "Théâtre Trianon",
-    "chunk_id": 0,
-    "text": "Si vous êtes en couple... Vous allez le rester ! Si vous êtes célibataires... profitez-en, ça ne va pas durer !"
-  },
-  {
-    "uid": 71871361,
-    "title": "Open Sources",
-    "start_date": "2025-12-13T18:00:00.000+01:00",
-    "end_date": "2026-01-25T18:30:00.000+01:00",
-    "source": "Un air de Bordeaux",
-    "chunk_id": 0,
-    "text": "Exposition collective : paysages, rythmes, matières, couleurs des eaux et de la Garonne"
-  },
-  {
-    "uid": 77499634,
-    "title": "Les Jeudis Soirs, le Magasin passe en mode Jeux.",
-    "start_date": "2025-11-06T18:00:00.000+01:00",
-    "end_date": "2026-02-26T23:00:00.000+01:00",
-    "source": "Darwin Éco-système · Bordeaux, rive droite.",
-    "chunk_id": 0,
-    "text": "Désormais et chaque jeudi, le Magasin Général sort son plus beau jeu : ambiance détente, convivialité et fous rires garantis. C’est l’afterwork cocooning de la rive droite."
-  },
-  {
-    "uid": 96515517,
-    "title": "Rentrée des cours de danses swing : LINDY HOP DEBUTANT - Bordeaux - Salle Hâ 32",
-    "start_date": "2025-10-02T19:00:00.000+02:00",
-    "end_date": "2026-06-25T20:00:00.000+02:00",
-    "source": "Carte jeune Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Rentrée des cours de danses swing : LINDY HOP DEBUTANT - Bordeaux - Salle Hâ 32"
-  },
-  {
-    "uid": 94846143,
-    "title": "Rentrée des cours de danses swing : SOLO SWING / CHARLESTON DEBUTANT - Bordeaux - Salle Hâ 32",
-    "start_date": "2025-10-02T20:00:00.000+02:00",
-    "end_date": "2026-06-25T21:00:00.000+02:00",
-    "source": "Carte jeune Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Rentrée des cours de danses swing : SOLO SWING / CHARLESTON DEBUTANT - Bordeaux - Salle Hâ 32"
+    "chunk_id": 68
   },
   {
     "uid": 31461958,
-    "title": "Massacre à la princesse",
+    "text": "Dans cette histoire déjantée, les princesses ont été expulsées de leurs contes !  Entre Punk & Rock'n'Roll ; préparez-vous au pire et préparez-vous au rire.",
     "start_date": "2025-11-20T20:00:00.000+01:00",
     "end_date": "2026-05-27T21:30:00.000+02:00",
+    "title": "Massacre à la princesse",
     "source": "Théâtre Trianon",
-    "chunk_id": 0,
-    "text": "Dans cette histoire déjantée, les princesses ont été expulsées de leurs contes !  Entre Punk & Rock'n'Roll ; préparez-vous au pire et préparez-vous au rire."
+    "chunk_id": 69
   },
   {
-    "uid": 48057388,
-    "title": "LE PORTEUR D'HISTOIRE",
-    "start_date": "2025-09-19T20:45:00.000+02:00",
-    "end_date": "2026-01-18T19:30:00.000+01:00",
+    "uid": 37838306,
+    "text": "Jean-François Zygel",
+    "start_date": "2026-01-21T20:00:00.000+01:00",
+    "end_date": "2026-01-21T21:30:00.000+01:00",
+    "title": "Zygel joue Bordeaux",
+    "source": "Opéra National de Bordeaux",
+    "chunk_id": 70
+  },
+  {
+    "uid": 83302566,
+    "text": "Orchestre du Conservatoire Bordeaux-Jacques Thibaud",
+    "start_date": "2026-01-21T20:00:00.000+01:00",
+    "end_date": "2026-01-21T21:10:00.000+01:00",
+    "title": "Romance sans paroles",
+    "source": "Opéra National de Bordeaux",
+    "chunk_id": 71
+  },
+  {
+    "uid": 68369317,
+    "text": "L'Orchestre symphonique du conservatoire accueille le jeune talent bordelais Fynn Marconnet.",
+    "start_date": "2026-01-21T20:00:00.000+01:00",
+    "end_date": "2026-01-21T21:00:00.000+01:00",
+    "title": "Romance sans paroles",
+    "source": "Conservatoire de Bordeaux Jacques Thibaud",
+    "chunk_id": 72
+  },
+  {
+    "uid": 24484103,
+    "text": "Yvonne c’est le récit d’une génération. La génération Y. Une génération qui peine à se frayer un chemin entre révolution et décadence.",
+    "start_date": "2026-01-07T20:30:00.000+01:00",
+    "end_date": "2026-01-24T22:00:00.000+01:00",
+    "title": "Yvonne ou ma Génération Y",
+    "source": "Théâtre des Beaux Arts",
+    "chunk_id": 73
+  },
+  {
+    "uid": 85948762,
+    "text": "Comme le visage de Typhus, personnage grimaçant dont la folie touche autant qu’elle effraie… Le clown qui pique nous entraîne dans les arcanes de sa démence, sur la voie de l’affranchissement.",
+    "start_date": "2026-01-21T20:30:00.000+01:00",
+    "end_date": "2026-01-21T21:45:00.000+01:00",
+    "title": "Le delirium du papillon - Typhus Bronx",
+    "source": "Scène nationale Carré-Colonnes",
+    "chunk_id": 74
+  },
+  {
+    "uid": 57495658,
+    "text": "Découvrez l'art du verre du 22 janvier au 30 avril à l'OCAC",
+    "start_date": "2026-01-22T09:00:00.000+01:00",
+    "end_date": "2026-04-30T17:00:00.000+02:00",
+    "title": "Regards sur le verre - Exposition",
+    "source": "Office Culturel et d'Animation de Cenon - OCAC",
+    "chunk_id": 75
+  },
+  {
+    "uid": 37770748,
+    "text": "Matinée professionnelle, ouverte à toutes et tous sur inscription",
+    "start_date": "2026-01-22T09:00:00.000+01:00",
+    "end_date": "2026-01-22T12:00:00.000+01:00",
+    "title": "Construire et lire un album pour enfants",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 76
+  },
+  {
+    "uid": 20273965,
+    "text": "Ateliers participatifs pour public allophone",
+    "start_date": "2026-01-22T09:30:00.000+01:00",
+    "end_date": "2026-04-24T11:00:00.000+02:00",
+    "title": "Ateliers d'écriture et de conversation",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 77
+  },
+  {
+    "uid": 88790183,
+    "text": "atelier cuisine",
+    "start_date": "2026-01-22T10:00:00.000+01:00",
+    "end_date": "2026-06-18T12:00:00.000+02:00",
+    "title": "Atelier cuisine avec le chef Olivier Straheli",
+    "source": "Bordeaux Seniors",
+    "chunk_id": 78
+  },
+  {
+    "uid": 64193827,
+    "text": "Des experts de tous horizons offrent des clés de lecture originales sur les œuvres.",
+    "start_date": "2026-01-22T12:15:00.000+01:00",
+    "end_date": "2026-06-11T13:15:00.000+02:00",
+    "title": "Regards croisés",
+    "source": "Musée des Beaux-Arts Bordeaux",
+    "chunk_id": 79
+  },
+  {
+    "uid": 23779231,
+    "text": "Animation jeux de société pour adultes",
+    "start_date": "2026-01-22T14:00:00.000+01:00",
+    "end_date": "2026-03-12T16:00:00.000+01:00",
+    "title": "Les jeux du jeudi !",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 80
+  },
+  {
+    "uid": 19148493,
+    "text": "Rendez-vous personnalisés d'une heure pour répondre à vos questions sur le numérique.",
+    "start_date": "2026-01-22T14:00:00.000+01:00",
+    "end_date": "2026-03-05T16:00:00.000+01:00",
+    "title": "Soluces - Bastide/MFS Benauge",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 81
+  },
+  {
+    "uid": 89707590,
+    "text": "Rendez-vous personnalisés d'une heure pour répondre à vos questions sur le numérique.",
+    "start_date": "2026-01-22T14:00:00.000+01:00",
+    "end_date": "2026-02-26T17:00:00.000+01:00",
+    "title": "Soluces - Pierre Veilletet",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 82
+  },
+  {
+    "uid": 71871361,
+    "text": "Exposition collective : paysages, rythmes, matières, couleurs des eaux et de la Garonne",
+    "start_date": "2025-12-13T18:00:00.000+01:00",
+    "end_date": "2026-01-25T18:30:00.000+01:00",
+    "title": "Open Sources",
     "source": "Un air de Bordeaux",
-    "chunk_id": 0,
-    "text": "Une chasse aux trésors littéraires créée et mise en scène par Alexis Michalik."
+    "chunk_id": 83
+  },
+  {
+    "uid": 21652514,
+    "text": "Et si vous installiez la biodiversité chez vous ?",
+    "start_date": "2026-01-22T14:30:00.000+01:00",
+    "end_date": "2026-01-22T16:00:00.000+01:00",
+    "title": "Un refuge pour les petites bêtes",
+    "source": "Maison du jardinier et de la nature en ville",
+    "chunk_id": 84
+  },
+  {
+    "uid": 76030364,
+    "text": "Conférence d’Antoine Lilti : \"Une curiosité pacifique : Les Lumières au miroir de Tahiti\", suivie d'un concert \"Voyage musical à l’époque des Lumières”",
+    "start_date": "2026-01-22T17:00:00.000+01:00",
+    "end_date": "2026-01-22T19:00:00.000+01:00",
+    "title": "Séminaire Lumières",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 85
+  },
+  {
+    "uid": 91380951,
+    "text": "Des boissons et des recettes élaborées par les participants de Popote Story seront aussi proposées. En accès libre pour toutes et tous.",
+    "start_date": "2026-01-22T17:00:00.000+01:00",
+    "end_date": "2026-01-22T19:00:00.000+01:00",
+    "title": "VERNISSAGE FESTIF ET GOURMAND DE L'EXPOSITION     JEUDI 22 JANVIER\n17H À 20H",
+    "source": "La Maison Écocitoyenne de Bordeaux Métropole",
+    "chunk_id": 86
+  },
+  {
+    "uid": 77499634,
+    "text": "Désormais et chaque jeudi, le Magasin Général sort son plus beau jeu : ambiance détente, convivialité et fous rires garantis. C’est l’afterwork cocooning de la rive droite.",
+    "start_date": "2025-11-06T18:00:00.000+01:00",
+    "end_date": "2026-02-26T23:00:00.000+01:00",
+    "title": "Les Jeudis Soirs, le Magasin passe en mode Jeux.",
+    "source": "Darwin Éco-système · Bordeaux, rive droite.",
+    "chunk_id": 87
+  },
+  {
+    "uid": 34795132,
+    "text": "Venez rencontrer Michel Winock à l’occasion de la sortie de son livre \"La Commune, 18 mars 1871 : la guerre civile des Français\" aux éditions Gallimard.",
+    "start_date": "2026-01-22T18:00:00.000+01:00",
+    "end_date": "2026-01-22T19:30:00.000+01:00",
+    "title": "Rencontre avec Michel Winock",
+    "source": "Librairie Mollat",
+    "chunk_id": 88
+  },
+  {
+    "uid": 7204802,
+    "text": "Un rendez-vous mensuel pour y voir un peu plus clair dans l'actualité et prendre du recul",
+    "start_date": "2026-01-22T18:00:00.000+01:00",
+    "end_date": "2026-01-22T19:00:00.000+01:00",
+    "title": "En quête d'Actu : Foot business, les ripostes coopératives",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 89
+  },
+  {
+    "uid": 558338,
+    "text": "Découvrez l'art de sculpter le goût du vin à travers une dégustation !",
+    "start_date": "2026-01-22T18:30:00.000+01:00",
+    "end_date": "2026-01-22T21:30:00.000+01:00",
+    "title": "L’art de sculpter la vigne, en 3 vins",
+    "source": "La Cité du Vin",
+    "chunk_id": 90
+  },
+  {
+    "uid": 92997730,
+    "text": "Le 22 janvier, vivez au gymnase Haku Michigami à Bordeaux la revanche de la finale des France amateurs mix, avec combats spectaculaires et show de danse de la Spartiate Family.",
+    "start_date": "2026-01-22T18:30:00.000+01:00",
+    "end_date": "2026-01-22T21:00:00.000+01:00",
+    "title": "JUDO PRO LEAGUE - J4 - STADE BORDELAIS VS NORMANDIE JUDO",
+    "source": "STADE BORDELAIS SECTION JUDO",
+    "chunk_id": 91
+  },
+  {
+    "uid": 96515517,
+    "text": "Rentrée des cours de danses swing : LINDY HOP DEBUTANT - Bordeaux - Salle Hâ 32",
+    "start_date": "2025-10-02T19:00:00.000+02:00",
+    "end_date": "2026-06-25T20:00:00.000+02:00",
+    "title": "Rentrée des cours de danses swing : LINDY HOP DEBUTANT - Bordeaux - Salle Hâ 32",
+    "source": "Carte jeune Bordeaux Métropole",
+    "chunk_id": 92
+  },
+  {
+    "uid": 24702455,
+    "text": "Remise des prix franco-allemands par la Maison de l’Europe  et ses partenaires.",
+    "start_date": "2026-01-22T19:00:00.000+01:00",
+    "end_date": "2026-01-22T21:00:00.000+01:00",
+    "title": "Remise des prix Franco-Allemande !",
+    "source": "Maison de l'Europe Bordeaux-Aquitaine",
+    "chunk_id": 93
+  },
+  {
+    "uid": 10228015,
+    "text": "Cap Sciences propose sa prochaine rencontre Happy Hour le jeudi 22 janvier 2026, sur le thème \"Santé mentale : et si c’était la société qui nous pressait le citron ?\".",
+    "start_date": "2026-01-22T19:00:00.000+01:00",
+    "end_date": "2026-01-22T20:30:00.000+01:00",
+    "title": "Happy Hour - Santé mentale : et si c’était la société qui nous pressait le citron ?",
+    "source": "Cap Sciences",
+    "chunk_id": 94
+  },
+  {
+    "uid": 94846143,
+    "text": "Rentrée des cours de danses swing : SOLO SWING / CHARLESTON DEBUTANT - Bordeaux - Salle Hâ 32",
+    "start_date": "2025-10-02T20:00:00.000+02:00",
+    "end_date": "2026-06-25T21:00:00.000+02:00",
+    "title": "Rentrée des cours de danses swing : SOLO SWING / CHARLESTON DEBUTANT - Bordeaux - Salle Hâ 32",
+    "source": "Carte jeune Bordeaux Métropole",
+    "chunk_id": 95
+  },
+  {
+    "uid": 1774412,
+    "text": "Les Rencontres de la forme courte dans les arts vivants",
+    "start_date": "2026-01-22T20:00:00.000+01:00",
+    "end_date": "2026-01-23T22:00:00.000+01:00",
+    "title": "Festival Trente Trente - Soirées au Glob Théâtre",
+    "source": "Compagnie Les Marches de l'Été",
+    "chunk_id": 96
+  },
+  {
+    "uid": 67166890,
+    "text": "D’aussi loin qu’elle s’en souvienne, Emy a toujours su faire marrer son monde – même ses profs étaient obligés de mettre pause à leur cours pour rigoler.",
+    "start_date": "2026-01-22T20:00:00.000+01:00",
+    "end_date": "2026-01-22T21:30:00.000+01:00",
+    "title": "EMY",
+    "source": "Théâtre Trianon",
+    "chunk_id": 97
+  },
+  {
+    "uid": 80303527,
+    "text": "Fantaisies, Batailles & Danses",
+    "start_date": "2026-01-22T20:00:00.000+01:00",
+    "end_date": "2026-01-22T21:15:00.000+01:00",
+    "title": "Jordi Savall",
+    "source": "Opéra National de Bordeaux",
+    "chunk_id": 98
+  },
+  {
+    "uid": 5379606,
+    "text": "Avec cette histoire à frémir debout, la couleur est annoncée. Rouge ! Comme l’hémoglobine qui teinte cette réécriture – à la sauce Bronx – du Conte du genévrier des frères Grimm.",
+    "start_date": "2026-01-22T20:30:00.000+01:00",
+    "end_date": "2026-01-22T21:50:00.000+01:00",
+    "title": "La petite histoire qui va te faire flipper (tellement qu’elle fait peur) - Typhus Bronx",
+    "source": "Scène nationale Carré-Colonnes",
+    "chunk_id": 99
   },
   {
     "uid": 19303414,
-    "title": "Rentrée des cours de danses swing : BALBOA DEBUTANT - Bordeaux - Studio 71",
+    "text": "Rentrée des cours de danses swing : BALBOA DEBUTANT - Bordeaux - Studio 71",
     "start_date": "2025-10-02T21:00:00.000+02:00",
     "end_date": "2026-06-25T22:00:00.000+02:00",
+    "title": "Rentrée des cours de danses swing : BALBOA DEBUTANT - Bordeaux - Studio 71",
     "source": "Carte jeune Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Rentrée des cours de danses swing : BALBOA DEBUTANT - Bordeaux - Studio 71"
+    "chunk_id": 100
+  },
+  {
+    "uid": 96641863,
+    "text": "Experte en philosophie autant qu’en théâtre, Stéphanie Aflalo marie les deux dans ses Récréations philosophiques, pièces intimes et ludiques à l’humour fûté.",
+    "start_date": "2026-01-22T21:00:00.000+01:00",
+    "end_date": "2026-01-23T21:35:00.000+01:00",
+    "title": "MEDIATION - Stéphanie Aflalo",
+    "source": "La Manufacture CDCN Nouvelle-Aquitaine Bordeaux• La Rochelle",
+    "chunk_id": 101
   },
   {
     "uid": 32787107,
-    "title": "HOCKEY - Calendrier des matchs à domicile des Boxers de Bordeaux",
+    "text": "Retrouvez l'intégralité des matchs des Boxers de Bordeaux, l'équipe de Hockey sur glace locale !",
     "start_date": "2025-09-16T09:00:00.000+02:00",
     "end_date": "2026-03-06T21:00:00.000+01:00",
+    "title": "HOCKEY - Calendrier des matchs à domicile des Boxers de Bordeaux",
     "source": "Un air de Bordeaux",
-    "chunk_id": 0,
-    "text": "Retrouvez l'intégralité des matchs des Boxers de Bordeaux, l'équipe de Hockey sur glace locale !"
+    "chunk_id": 102
+  },
+  {
+    "uid": 70842554,
+    "text": "Dans le cadre du dispositif \"Entreprendre la Région à vos cotés\"  Découvrez le parcours du créateurs d'entreprise et les outils de l'Adie",
+    "start_date": "2026-01-23T09:30:00.000+01:00",
+    "end_date": "2026-01-23T12:30:00.000+01:00",
+    "title": "Financer mon projet d'entreprise",
+    "source": "Adie NA - 33",
+    "chunk_id": 103
+  },
+  {
+    "uid": 99516142,
+    "text": "Moon Creative Workspace vous accueille dans son atelier de dessin à Bordeaux pour une immersion totale dans l'univers artistique.",
+    "start_date": "2026-01-09T10:00:00.000+01:00",
+    "end_date": "2026-07-31T11:30:00.000+02:00",
+    "title": "Cours de dessin",
+    "source": "Carte jeune Bordeaux Métropole",
+    "chunk_id": 104
+  },
+  {
+    "uid": 95873448,
+    "text": "Visites adultes, ouvertes aux étudiantes et étudiants !",
+    "start_date": "2026-01-07T15:30:00.000+01:00",
+    "end_date": "2026-06-27T16:30:00.000+02:00",
+    "title": "Visites commentées",
+    "source": "Musée des Beaux-Arts Bordeaux",
+    "chunk_id": 105
   },
   {
     "uid": 91471280,
-    "title": "Atelier dessin et peinture",
+    "text": "Exploration et approfondissement des techniques de dessin et de peinture.",
     "start_date": "2025-09-19T10:00:00.000+02:00",
     "end_date": "2026-06-19T12:00:00.000+02:00",
+    "title": "Atelier dessin et peinture",
     "source": "Carte jeune Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Exploration et approfondissement des techniques de dessin et de peinture."
+    "chunk_id": 106
+  },
+  {
+    "uid": 89738110,
+    "text": "Trois formats d’ateliers long sont proposé pour finir l’année 2025 en beauté!! Il reste encore des places c’est le moment de s’inscrire!!",
+    "start_date": "2025-11-05T19:00:00.000+01:00",
+    "end_date": "2026-02-27T11:30:00.000+01:00",
+    "title": "Ateliers photo longue durée de novembre à janvier",
+    "source": "Carte jeune Bordeaux Métropole",
+    "chunk_id": 107
+  },
+  {
+    "uid": 2458339,
+    "text": "Visite commentée proposée dans le cadre de \"1 mois, 1 oeuvre\"",
+    "start_date": "2026-01-23T12:15:00.000+01:00",
+    "end_date": "2026-01-23T13:15:00.000+01:00",
+    "title": "Le buste du cardinal de Sourdis",
+    "source": "Musée d'Aquitaine",
+    "chunk_id": 108
+  },
+  {
+    "uid": 86913257,
+    "text": "Ernest Lenôtre, grand collectionneur originaire de Bordeaux, a laissé derrière lui une collection unique, inspirée des lieux qu’il a arpentés dans sa jeunesse.",
+    "start_date": "2026-01-23T14:00:00.000+01:00",
+    "end_date": "2026-08-21T16:00:00.000+02:00",
+    "title": "Chasse à l’héritage – Qui remportera la collection bordelaise d’Ernest Lenôtre ?",
+    "source": "Bordeaux Visite",
+    "chunk_id": 109
   },
   {
     "uid": 78960671,
-    "title": "Atelier théâtre",
+    "text": "Atelier d'expression théâtrale, interprétation de textes, improvisation",
     "start_date": "2025-09-19T14:00:00.000+02:00",
     "end_date": "2026-06-19T15:30:00.000+02:00",
+    "title": "Atelier théâtre",
     "source": "Carte jeune Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Atelier d'expression théâtrale, interprétation de textes, improvisation"
+    "chunk_id": 110
+  },
+  {
+    "uid": 86777939,
+    "text": "Rendez-vous personnalisés d'une heure pour répondre à vos questions sur le numérique.",
+    "start_date": "2026-01-23T14:00:00.000+01:00",
+    "end_date": "2026-02-27T17:00:00.000+01:00",
+    "title": "Soluces - Grand-Parc",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 111
+  },
+  {
+    "uid": 60757523,
+    "text": "Rendez-vous personnalisés d'une heure pour répondre à vos questions sur le numérique.",
+    "start_date": "2026-01-23T14:00:00.000+01:00",
+    "end_date": "2026-02-20T17:00:00.000+01:00",
+    "title": "Soluces - Sésame",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 112
+  },
+  {
+    "uid": 29251152,
+    "text": "Randonnées, cartes anciennes, parcelles cadastrales, …",
+    "start_date": "2026-01-23T14:00:00.000+01:00",
+    "end_date": "2026-01-23T16:00:00.000+01:00",
+    "title": "Découvrir Géoportail le site de l'IGN",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 113
+  },
+  {
+    "uid": 49167119,
+    "text": "Et si vous installiez la biodiversité chez vous ?",
+    "start_date": "2026-01-23T14:30:00.000+01:00",
+    "end_date": "2026-01-23T15:30:00.000+01:00",
+    "title": "Mon salon de plantes vertes",
+    "source": "Maison du jardinier et de la nature en ville",
+    "chunk_id": 114
+  },
+  {
+    "uid": 66865375,
+    "text": "Venez rencontrer la violoncelliste et compositrice française et américaine Sonia Wieder-Atherton en partenariat avec l'ONB",
+    "start_date": "2026-01-23T17:00:00.000+01:00",
+    "end_date": "2026-01-23T18:00:00.000+01:00",
+    "title": "Rencontre avec Sonia Wieder-Atherton",
+    "source": "Librairie Mollat",
+    "chunk_id": 115
+  },
+  {
+    "uid": 12939064,
+    "text": "« L’image de ta nature » est un projet photographique et humain porté par la photographe, photothérapeute et anthropologue espagnole Oihana Marco.",
+    "start_date": "2026-01-23T17:30:00.000+01:00",
+    "end_date": "2026-02-07T18:00:00.000+01:00",
+    "title": "L'Image de ta nature",
+    "source": "MAP Galeria",
+    "chunk_id": 116
   },
   {
     "uid": 33935414,
-    "title": "Session Modèle vivant",
+    "text": "Tous niveaux",
     "start_date": "2025-09-12T18:30:00.000+02:00",
     "end_date": "2026-09-25T20:30:00.000+02:00",
+    "title": "Session Modèle vivant",
     "source": "Carte jeune Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "Tous niveaux"
+    "chunk_id": 117
   },
   {
     "uid": 56187344,
-    "title": "Afterworks du Poney Fringant (vendredi) — Ludothèque & Bar à Jeux",
+    "text": "Finissez la semaine en beauté ! De 18h30 à 22h, on passe en mode détente : jeux, bières, planches et grosses rigolades au programme.",
     "start_date": "2025-10-17T18:30:00.000+02:00",
     "end_date": "2026-07-31T22:00:00.000+02:00",
+    "title": "Afterworks du Poney Fringant (vendredi) — Ludothèque & Bar à Jeux",
     "source": "Union Saint-Jean",
-    "chunk_id": 0,
-    "text": "Finissez la semaine en beauté ! De 18h30 à 22h, on passe en mode détente : jeux, bières, planches et grosses rigolades au programme."
+    "chunk_id": 118
   },
   {
-    "uid": 38847681,
-    "title": "MA FEMME PEUT EN CACHER UNE AUTRE",
-    "start_date": "2025-11-29T19:30:00.000+01:00",
-    "end_date": "2026-01-24T21:00:00.000+01:00",
-    "source": "Théâtre Trianon",
-    "chunk_id": 0,
-    "text": "La nouvelle comédie de Xavier VITON, pleine de chic… et de chocs, stylée et hilarante, où l’amour et l’argent font des étincelles."
+    "uid": 18867488,
+    "text": "Courses festives et solidaires suivies d'une soirée disco fluo (DJ Nemoi) - Tartiflette et vin chaud - Courses en combi de ski ou pas !",
+    "start_date": "2026-01-23T18:30:00.000+01:00",
+    "end_date": "2026-01-23T23:45:00.000+01:00",
+    "title": "La Bacala'Night #3",
+    "source": "Le Garage Moderne",
+    "chunk_id": 119
   },
   {
-    "uid": 48617581,
-    "title": "24 Préludes pour piano de Pretor Part",
-    "start_date": "2025-09-09T20:30:00.000+02:00",
-    "end_date": "2026-06-23T21:30:00.000+02:00",
-    "source": "arteviva",
-    "chunk_id": 0,
-    "text": "Pour piano, voix, instruments monodiques ad libitum, bande magnétique et mur vidéo immersif Par Pascal Pistone (piano) & Mathilde Chatin (voix et divers instruments) - Tout public - Durée : 1 h"
-  },
-  {
-    "uid": 39779066,
-    "title": "Théâtre \"Amants à mi-temps\"",
-    "start_date": "2025-09-26T20:30:00.000+02:00",
-    "end_date": "2026-05-29T22:00:00.000+02:00",
-    "source": "Un air de Bordeaux",
-    "chunk_id": 0,
-    "text": "Les Français sont les meilleurs amants du monde, c'est ce qui se dit ! Ce sont aussi les plus infidèles. c'est ce qui se dit aussi !"
-  },
-  {
-    "uid": 89475528,
-    "title": "stage tirage noir & blanc",
-    "start_date": "2025-09-27T14:00:00.000+02:00",
-    "end_date": "2026-06-13T18:00:00.000+02:00",
-    "source": "le labo photo",
-    "chunk_id": 0,
-    "text": "initiation à l'argentique"
-  },
-  {
-    "uid": 31198327,
-    "title": "Ciné-concert sur des films de Charlie Chaplin",
-    "start_date": "2025-09-06T19:00:00.000+02:00",
-    "end_date": "2026-06-27T20:00:00.000+02:00",
-    "source": "arteviva",
-    "chunk_id": 0,
-    "text": "Mathilde Chatin & Pascal Pistone (piano et accordéon) accompagnent les courts-métrages de Charlie Chaplin - Tout public - Durée : 1h"
-  },
-  {
-    "uid": 93692228,
-    "title": "Récital dé-Piano-té (Spectacle pianistique + théâtre, vidéo et danse)",
-    "start_date": "2025-09-05T20:30:00.000+02:00",
-    "end_date": "2026-06-26T21:45:00.000+02:00",
-    "source": "arteviva",
-    "chunk_id": 0,
-    "text": "Entre grand répertoire et théâtre musical, happening et danse contemporaine, mélodrame et ciné-concert, ce récital virtuose et interactif explore et réinvente trois siècles de musique !"
-  },
-  {
-    "uid": 1755777,
-    "title": "Prévert et Moi",
-    "start_date": "2025-11-14T20:30:00.000+01:00",
-    "end_date": "2026-04-12T17:30:00.000+02:00",
-    "source": "Spectacles au théâtre de la rousselle",
-    "chunk_id": 0,
-    "text": "Poésie sensible et musicale"
-  },
-  {
-    "uid": 27974368,
-    "title": "Elles pardonnent mais n'oublient jamais",
-    "start_date": "2025-10-31T20:00:00.000+01:00",
-    "end_date": "2026-01-31T20:30:00.000+01:00",
-    "source": "Théâtre Trianon",
-    "chunk_id": 0,
-    "text": "e soir, le chaud lapin devient la proie... C'est bien connu : les hommes ne mentent pas, c'est la vérité qui se trompe."
-  },
-  {
-    "uid": 57888063,
-    "title": "0-3 ans - S'informer sur les modes d'accueil",
-    "start_date": "2025-12-04T17:30:00.000+01:00",
-    "end_date": "2026-02-12T19:00:00.000+01:00",
-    "source": "Ville de Bordeaux",
-    "chunk_id": 0,
-    "text": "Venez vous informer sur les modes d'accueil à Bordeaux lors d'une rencontre."
-  },
-  {
-    "uid": 65269899,
-    "title": "Soirée doublage improvisé",
-    "start_date": "2025-12-14T19:30:00.000+01:00",
-    "end_date": "2026-01-15T21:00:00.000+01:00",
-    "source": "l'Estrade",
-    "chunk_id": 0,
-    "text": "Votre soirée cinéma réinventée : l’impro prend le micro !"
-  },
-  {
-    "uid": 88688759,
-    "title": "BALANCE TON JULES",
-    "start_date": "2025-05-28T20:00:00.000+02:00",
-    "end_date": "2026-01-31T22:30:00.000+01:00",
-    "source": "Théâtre Trianon",
-    "chunk_id": 0,
-    "text": "Girl power !"
+    "uid": 58295258,
+    "text": "Chouette ! On va voir des hiboux ! A la tombée de la nuit, venez avec nous parcourir la forêt pour tenter d’observer ces animaux discrets et découvrir leurs mystères.",
+    "start_date": "2026-01-23T18:30:00.000+01:00",
+    "end_date": "2026-01-23T20:30:00.000+01:00",
+    "title": "Chouette, des hiboux !",
+    "source": "Les balades de Cistude Nature",
+    "chunk_id": 120
   },
   {
     "uid": 55142285,
-    "title": "J'aime beaucoup ce que vous faites !",
+    "text": "La célèbre comédie aux de 2 millions de spectateurs !",
     "start_date": "2025-11-22T19:00:00.000+01:00",
     "end_date": "2026-06-18T21:30:00.000+02:00",
+    "title": "J'aime beaucoup ce que vous faites !",
     "source": "Théâtre Trianon",
-    "chunk_id": 0,
-    "text": "La célèbre comédie aux de 2 millions de spectateurs !"
+    "chunk_id": 121
   },
   {
-    "uid": 43840041,
-    "title": "Ciné-concert sur des courts-métrages de Charlie Chaplin",
-    "start_date": "2025-09-13T19:00:00.000+02:00",
-    "end_date": "2026-06-20T20:00:00.000+02:00",
+    "uid": 61265749,
+    "text": "Un événement mêlant poésie et création musicale.",
+    "start_date": "2026-01-23T19:00:00.000+01:00",
+    "end_date": "2026-01-23T20:30:00.000+01:00",
+    "title": "La poésie à l’oreille",
+    "source": "Conservatoire de Bordeaux Jacques Thibaud",
+    "chunk_id": 122
+  },
+  {
+    "uid": 38847681,
+    "text": "La nouvelle comédie de Xavier VITON, pleine de chic… et de chocs, stylée et hilarante, où l’amour et l’argent font des étincelles.",
+    "start_date": "2025-11-29T19:30:00.000+01:00",
+    "end_date": "2026-01-24T21:00:00.000+01:00",
+    "title": "MA FEMME PEUT EN CACHER UNE AUTRE",
+    "source": "Théâtre Trianon",
+    "chunk_id": 123
+  },
+  {
+    "uid": 64817970,
+    "text": "La Ville de Bordeaux et l’association Eurofeel co-organisent du 23 au 30 janvier 2026 la 5e édition des Rencontres européennes de Bordeaux",
+    "start_date": "2026-01-23T20:00:00.000+01:00",
+    "end_date": "2026-01-29T22:00:00.000+01:00",
+    "title": "5e Rencontres européennes de Bordeaux",
+    "source": "Les Rencontres Européennes de Bordeaux",
+    "chunk_id": 124
+  },
+  {
+    "uid": 39912771,
+    "text": "Match officiel de Ligue Magnus",
+    "start_date": "2026-01-23T20:00:00.000+01:00",
+    "end_date": "2026-01-23T22:30:00.000+01:00",
+    "title": "Boxers de Bordeaux VS Jokers de Cergy",
+    "source": "Boxers de Bordeaux",
+    "chunk_id": 125
+  },
+  {
+    "uid": 3244003,
+    "text": "Autour des jeux de course et jeux de rapidité.",
+    "start_date": "2026-01-23T20:00:00.000+01:00",
+    "end_date": "2026-01-23T22:00:00.000+01:00",
+    "title": "Ici on joue ! Soirée jeu",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 126
+  },
+  {
+    "uid": 82786401,
+    "text": "Bach suites",
+    "start_date": "2026-01-23T20:00:00.000+01:00",
+    "end_date": "2026-01-23T21:00:00.000+01:00",
+    "title": "Sonia Wieder-Atherton",
+    "source": "Opéra National de Bordeaux",
+    "chunk_id": 127
+  },
+  {
+    "uid": 93692228,
+    "text": "Entre grand répertoire et théâtre musical, happening et danse contemporaine, mélodrame et ciné-concert, ce récital virtuose et interactif explore et réinvente trois siècles de musique !",
+    "start_date": "2025-09-05T20:30:00.000+02:00",
+    "end_date": "2026-06-26T21:45:00.000+02:00",
+    "title": "Récital dé-Piano-té (Spectacle pianistique + théâtre, vidéo et danse)",
     "source": "arteviva",
-    "chunk_id": 0,
-    "text": "Adèle Pistone (piano) & Pascal Pistone (piano, accordéon, contrebassine) accompagnent les courts-métrages de Charlie Chaplin - Tout public - Durée : 50 mn"
+    "chunk_id": 128
   },
   {
-    "uid": 24817003,
-    "title": "Spectacle inclassable ! (chanson déjantée et piano acrobatique)",
-    "start_date": "2025-09-13T20:30:00.000+02:00",
-    "end_date": "2026-06-20T21:45:00.000+02:00",
-    "source": "arteviva",
-    "chunk_id": 0,
-    "text": "Du classique au jazz, du slam à la chanson, du ciné-concert au mentalisme, ce spectacle virtuose et interactif vous surprendra !"
+    "uid": 39779066,
+    "text": "Les Français sont les meilleurs amants du monde, c'est ce qui se dit ! Ce sont aussi les plus infidèles. c'est ce qui se dit aussi !",
+    "start_date": "2025-09-26T20:30:00.000+02:00",
+    "end_date": "2026-05-29T22:00:00.000+02:00",
+    "title": "Théâtre \"Amants à mi-temps\"",
+    "source": "Un air de Bordeaux",
+    "chunk_id": 129
   },
   {
-    "uid": 87142087,
-    "title": "FRANÇOIS GUÉDON PART EN CAMPAGNE",
-    "start_date": "2025-12-16T20:30:00.000+01:00",
-    "end_date": "2026-01-20T22:00:00.000+01:00",
-    "source": "l'Estrade",
-    "chunk_id": 0,
-    "text": "François Guédon revient avec un nouveau spectacle : dans une France en crise politique permanente François Guédon s’attaque avec impertinence au concept d’identité française."
+    "uid": 4022856,
+    "text": "Et de trois ! Les soirées New French Touch dénichent l’avant-garde de la scène française où jazz, électro et hip-hop se croisent, portée par une nouvelle génération inspirée, qui bouscule les code ...",
+    "start_date": "2026-01-23T20:30:00.000+01:00",
+    "end_date": "2026-01-23T23:30:00.000+01:00",
+    "title": "NEW FRENCH TOUCH #3 : ASTELS + EMILE LONDONIEN",
+    "source": "Rocher de Palmer",
+    "chunk_id": 130
+  },
+  {
+    "uid": 93335980,
+    "text": "Mélodies planantes, flow suave et influences afro-caribéennes : RSKO confirme son ascension fulgurante et s’affirme comme l’une des voix singulières et prometteuses du rap francophone.",
+    "start_date": "2026-01-23T20:30:00.000+01:00",
+    "end_date": "2026-01-23T23:30:00.000+01:00",
+    "title": "RSKO",
+    "source": "Rocher de Palmer",
+    "chunk_id": 131
+  },
+  {
+    "uid": 43014293,
+    "text": "Match d’impro avec La Licoeur et Impro Studio Lisbon  : des plein de rythme, d’idées folles et de surprises",
+    "start_date": "2026-01-23T20:30:00.000+01:00",
+    "end_date": "2026-01-23T22:30:00.000+01:00",
+    "title": "Match d'impro La Licoeur vs. Impro Studio Lisbon",
+    "source": "Union Saint-Jean",
+    "chunk_id": 132
+  },
+  {
+    "uid": 11736884,
+    "text": "Multicolore : c’est ainsi que Typhus s’imagine la vie avec un bébé, compagnon de sa « folitude »...",
+    "start_date": "2026-01-23T20:30:00.000+01:00",
+    "end_date": "2026-01-23T22:10:00.000+01:00",
+    "title": "Trop près du mur - Typhus Bronx",
+    "source": "Scène nationale Carré-Colonnes",
+    "chunk_id": 133
+  },
+  {
+    "uid": 88688759,
+    "text": "Girl power !",
+    "start_date": "2025-05-28T20:00:00.000+02:00",
+    "end_date": "2026-01-31T22:30:00.000+01:00",
+    "title": "BALANCE TON JULES",
+    "source": "Théâtre Trianon",
+    "chunk_id": 134
+  },
+  {
+    "uid": 59666297,
+    "text": "Si vous êtes en couple... Vous allez le rester ! Si vous êtes célibataires... profitez-en, ça ne va pas durer !",
+    "start_date": "2025-11-21T21:30:00.000+01:00",
+    "end_date": "2026-03-07T23:00:00.000+01:00",
+    "title": "Les femmes ont toujours raison, les hommes n'ont jamais tort !",
+    "source": "Théâtre Trianon",
+    "chunk_id": 135
+  },
+  {
+    "uid": 67799,
+    "text": "Récit musical pour les enfants de 6 mois à 4 ans par la compagnie Betty Blues",
+    "start_date": "2026-01-24T09:30:00.000+01:00",
+    "end_date": "2026-01-24T11:30:00.000+01:00",
+    "title": "Eclore",
+    "source": "Espace Simone Signoret",
+    "chunk_id": 136
+  },
+  {
+    "uid": 19148517,
+    "text": "Stages avec Diane Le Floc’h et Neven Ritmanic, danseurs à l’Opéra National de Bordeaux.",
+    "start_date": "2026-01-24T10:00:00.000+01:00",
+    "end_date": "2026-01-25T16:00:00.000+01:00",
+    "title": "Stage de danse classique : Mois de la danse 2026",
+    "source": "Ville de Cenon",
+    "chunk_id": 137
+  },
+  {
+    "uid": 12674802,
+    "text": "Dans le cadre du Mois des petits",
+    "start_date": "2026-01-24T10:30:00.000+01:00",
+    "end_date": "2026-01-24T18:00:00.000+01:00",
+    "title": "Journée petite enfance",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 138
+  },
+  {
+    "uid": 1070319,
+    "text": "Lectures pour les tout-petits",
+    "start_date": "2026-01-24T10:30:00.000+01:00",
+    "end_date": "2026-01-24T11:30:00.000+01:00",
+    "title": "Bébé bouquine",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 139
+  },
+  {
+    "uid": 74883367,
+    "text": "Lectures & comptines pour les tout-petits",
+    "start_date": "2026-01-24T10:30:00.000+01:00",
+    "end_date": "2026-01-24T11:30:00.000+01:00",
+    "title": "Bébé Bouquine",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 140
+  },
+  {
+    "uid": 97984925,
+    "text": "Concert pour les bébés",
+    "start_date": "2026-01-24T11:00:00.000+01:00",
+    "end_date": "2026-01-25T11:25:00.000+01:00",
+    "title": "Barbotte",
+    "source": "Opéra National de Bordeaux",
+    "chunk_id": 141
+  },
+  {
+    "uid": 91686294,
+    "text": "Présentation de coups de cœur des lectrices et lecteurs",
+    "start_date": "2026-01-24T11:00:00.000+01:00",
+    "end_date": "2026-01-24T12:30:00.000+01:00",
+    "title": "Café des lecteurs",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 142
+  },
+  {
+    "uid": 32985907,
+    "text": "Entre dans la magie du papier et créé une carte qui s'anime sous tes doigts !",
+    "start_date": "2026-01-24T11:00:00.000+01:00",
+    "end_date": "2026-01-24T12:00:00.000+01:00",
+    "title": "Fabrique ta carte magique",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 143
+  },
+  {
+    "uid": 45810230,
+    "text": "Animation musicale avec l'APEEF",
+    "start_date": "2026-01-24T11:00:00.000+01:00",
+    "end_date": "2026-01-24T12:00:00.000+01:00",
+    "title": "Des sons, des livres et des chansons",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 144
+  },
+  {
+    "uid": 42623131,
+    "text": "Lectures pour enfants en famille",
+    "start_date": "2026-01-24T11:00:00.000+01:00",
+    "end_date": "2026-01-24T11:30:00.000+01:00",
+    "title": "Lectures Bébé bouquine",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 145
+  },
+  {
+    "uid": 22515497,
+    "text": "Stands, animations et échanges dans le cadre de la Semaine de culture scientifique",
+    "start_date": "2026-01-24T13:00:00.000+01:00",
+    "end_date": "2026-01-24T17:00:00.000+01:00",
+    "title": "Marché des connaissances",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 146
+  },
+  {
+    "uid": 19967630,
+    "text": "Ateliers d'échecs participatifs et intergénérationnels",
+    "start_date": "2026-01-24T14:00:00.000+01:00",
+    "end_date": "2026-03-28T17:00:00.000+01:00",
+    "title": "Ateliers d'échecs",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 147
+  },
+  {
+    "uid": 56925748,
+    "text": "Tendances et fonctionnelles, les sacs banane occupent le devant de la scène depuis maintenant plusieurs années, et si vous fabriquiez le vôtre ?",
+    "start_date": "2026-01-24T14:00:00.000+01:00",
+    "end_date": "2026-01-24T18:00:00.000+01:00",
+    "title": "Coudre son premier sac banane avec Recup'R",
+    "source": "La Maison Écocitoyenne de Bordeaux Métropole",
+    "chunk_id": 148
+  },
+  {
+    "uid": 91411060,
+    "text": "Un rendez-vous proposé en partenariat avec l’AFVBA et le Rahmi.",
+    "start_date": "2026-01-24T14:00:00.000+01:00",
+    "end_date": "2026-01-24T17:30:00.000+01:00",
+    "title": "Conférences, projections de courts-métrages, exposition et échanges avec des anciens habitants du CAFI de Sainte-Livrade-sur-Lot.",
+    "source": "Musée d'Aquitaine",
+    "chunk_id": 149
+  },
+  {
+    "uid": 88478282,
+    "text": "rencontre U18 football américain",
+    "start_date": "2026-01-24T14:00:00.000+01:00",
+    "end_date": "2026-01-24T17:00:00.000+01:00",
+    "title": "LIONS de Bordeaux vs SPHINX de Pau",
+    "source": "les Lions de Bordeaux football américan",
+    "chunk_id": 150
+  },
+  {
+    "uid": 87302087,
+    "text": "Un rendez-vous du cycle de conférences accompagnant la nouvelle exposition des Archives départementales de la Gironde : \"Effacées. L'enfermement au féminin au château de Cadillac (1822-1951)\"",
+    "start_date": "2026-01-24T14:30:00.000+01:00",
+    "end_date": "2026-01-24T16:00:00.000+01:00",
+    "title": "Conférence : \"Michelle Perrot, pionnière de l’histoire des prisons\"",
+    "source": "Archives départementales de la Gironde",
+    "chunk_id": 151
   },
   {
     "uid": 40034780,
-    "title": "Petite Pipelette et le Grand Malentendu (jeune public 4-12 ans)",
-    "start_date": "2025-09-27T15:00:00.000+02:00",
+    "text": "Conte théâtralisé de Hélène Demé Elzévir et Nolwenn Daste pour les 4-12 ans et les adultes qui les entourent",
+    "start_date": "2026-01-24T15:00:00.000+01:00",
     "end_date": "2026-05-10T16:00:00.000+02:00",
+    "title": "Petite Pipelette et le Grand Malentendu (jeune public 4-12 ans)",
     "source": "Théâtre OUF! / Wonder Pipelettes",
-    "chunk_id": 0,
-    "text": "Conte théâtralisé de Hélène Demé Elzévir et Nolwenn Daste pour les 4-12 ans et les adultes qui les entourent"
+    "chunk_id": 152
+  },
+  {
+    "uid": 23328930,
+    "text": "En collaboration avec l'AGJA de Caudéran.",
+    "start_date": "2026-01-24T15:00:00.000+01:00",
+    "end_date": "2026-01-24T17:00:00.000+01:00",
+    "title": "Découvrez le tricot : un atelier d'initiation pour apprendre les points de base.",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 153
+  },
+  {
+    "uid": 50039172,
+    "text": "Un approche ludique et poétique de la lecture",
+    "start_date": "2026-01-24T15:00:00.000+01:00",
+    "end_date": "2026-01-24T17:00:00.000+01:00",
+    "title": "Atelier de bibliothérapie : De la tête aux pieds",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 154
+  },
+  {
+    "uid": 99825871,
+    "text": "Apprenez une technique de représentation de l’eau, en écho aux albums de Julien Béziat !",
+    "start_date": "2026-01-24T15:00:00.000+01:00",
+    "end_date": "2026-01-24T17:00:00.000+01:00",
+    "title": "Atelier dessin avec Julien Béziat",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 155
+  },
+  {
+    "uid": 70248732,
+    "text": "Projection du film de Steven Soderbergh",
+    "start_date": "2026-01-24T15:30:00.000+01:00",
+    "end_date": "2026-01-24T17:45:00.000+01:00",
+    "title": "LE CYCLE DE L'EAU | Erin Brockovich, seule contre tous",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 156
+  },
+  {
+    "uid": 51737496,
+    "text": "Le Musée Mer Marine est heureux d'accueillir Michel Pierre, pour une conférence ouverte à tous, de 7 à 77 ans !",
+    "start_date": "2026-01-24T17:00:00.000+01:00",
+    "end_date": "2026-01-24T18:00:00.000+01:00",
+    "title": "Astérix et la Mer",
+    "source": "Musée Mer Marine",
+    "chunk_id": 157
+  },
+  {
+    "uid": 87526559,
+    "text": "Musiques originales pour orchestre d’harmonie",
+    "start_date": "2026-01-24T17:15:00.000+01:00",
+    "end_date": "2026-01-24T18:30:00.000+01:00",
+    "title": "Concert du nouvel an. Orchestre d’Harmonie de Bordeaux",
+    "source": "Orchestre d'Harmonie de Bordeaux",
+    "chunk_id": 158
+  },
+  {
+    "uid": 50371256,
+    "text": "Lecture de textes de Michel Valprémy - \"Albumville\" & \"Rose, Raoul et Courte-Queue\".",
+    "start_date": "2026-01-24T18:00:00.000+01:00",
+    "end_date": "2026-01-24T23:00:00.000+01:00",
+    "title": "Nuits de la lecture – Michel Valprémy : à la ville comme à la campagne",
+    "source": "Association Nouvelles Traces",
+    "chunk_id": 159
+  },
+  {
+    "uid": 31198327,
+    "text": "Mathilde Chatin & Pascal Pistone (piano et accordéon) accompagnent les courts-métrages de Charlie Chaplin - Tout public - Durée : 1h",
+    "start_date": "2025-09-06T19:00:00.000+02:00",
+    "end_date": "2026-06-27T20:00:00.000+02:00",
+    "title": "Ciné-concert sur des films de Charlie Chaplin",
+    "source": "arteviva",
+    "chunk_id": 160
+  },
+  {
+    "uid": 83576758,
+    "text": "9 finalistes en compétition et 1 couronne à gagner !",
+    "start_date": "2026-01-24T19:00:00.000+01:00",
+    "end_date": "2026-01-24T23:59:00.000+01:00",
+    "title": "Finale des Drag Games",
+    "source": "La Salle des Fêtes Bordeaux Grand Parc",
+    "chunk_id": 161
+  },
+  {
+    "uid": 77136809,
+    "text": "Compétition internationale de saut à la perche",
+    "start_date": "2026-01-24T19:00:00.000+01:00",
+    "end_date": "2026-01-24T23:00:00.000+01:00",
+    "title": "STARPERCHE",
+    "source": "STADE BORDELAIS ATHLETISME",
+    "chunk_id": 162
+  },
+  {
+    "uid": 50514595,
+    "text": "rencontre football américain",
+    "start_date": "2026-01-24T19:00:00.000+01:00",
+    "end_date": "2026-01-24T22:30:00.000+01:00",
+    "title": "LIONS de Bordeaux vs CENTURIONS de Nîmes",
+    "source": "les Lions de Bordeaux football américan",
+    "chunk_id": 163
+  },
+  {
+    "uid": 11719007,
+    "text": "Flora Fishbach en concert à la Rock School Barbey",
+    "start_date": "2026-01-24T20:00:00.000+01:00",
+    "end_date": "2026-01-24T23:50:00.000+01:00",
+    "title": "Flora Fishbach",
+    "source": "Rock School Barbey - Agenda",
+    "chunk_id": 164
+  },
+  {
+    "uid": 61365126,
+    "text": "Une programmation Opéra National de Bordeaux",
+    "start_date": "2026-01-24T20:00:00.000+01:00",
+    "end_date": "2026-01-24T21:30:00.000+01:00",
+    "title": "David Fray | Daniel Lozakovich",
+    "source": "Opéra National de Bordeaux",
+    "chunk_id": 165
+  },
+  {
+    "uid": 90133492,
+    "text": "Mathilde vous conte ses joies, ses peines, ses fantasmes, ses délires, parfois avec une touche d'humour, du haut de ses 22 ans ! - Tout public - Durée : 1h",
+    "start_date": "2025-09-06T20:30:00.000+02:00",
+    "end_date": "2026-06-27T21:30:00.000+02:00",
+    "title": "Le fabuleux destin de Mathilde Chatin (chansons originales)",
+    "source": "arteviva",
+    "chunk_id": 166
+  },
+  {
+    "uid": 25865297,
+    "text": "Rayonnant d’énergie solaire, le duo clarinette-violoncelle\u0002voix formé par Laura et Gianna Caronni nous entraîne, envoûtés par l’éclat de leur timbre argentin, dans un territoire d’émotions pures.",
+    "start_date": "2026-01-24T20:30:00.000+01:00",
+    "end_date": "2026-01-24T23:30:00.000+01:00",
+    "title": "LAS HERMANAS CARONNI",
+    "source": "Rocher de Palmer",
+    "chunk_id": 167
+  },
+  {
+    "uid": 97723088,
+    "text": "Dub Inc, ou les vertus du métissage entre dub, dancehall et musiques du monde. La formation stéphanoise s’impose depuis près de 20 ans comme l’une des références majeures de la scène reggae en France.",
+    "start_date": "2026-01-24T20:30:00.000+01:00",
+    "end_date": "2026-01-24T23:30:00.000+01:00",
+    "title": "DUB INC",
+    "source": "Rocher de Palmer",
+    "chunk_id": 168
+  },
+  {
+    "uid": 67877951,
+    "text": "Les chorégraphies d'Alonzo King conjuguent à la technique classique une danse inventive, sensuelle et vibrante avec des danseurs à la virtuosité irréprochable.",
+    "start_date": "2026-01-24T20:30:00.000+01:00",
+    "end_date": "2026-01-24T22:00:00.000+01:00",
+    "title": "Alonzo King Lines Ballet - The Collective Agreement / Ode to Alice Coltrane",
+    "source": "Le Pin Galant",
+    "chunk_id": 169
   },
   {
     "uid": 54014266,
-    "title": "INZO, Maison des Cultures Africaines et Afro.",
+    "text": "Durant une journée, un samedi par mois, la Cie MALOBA vous ouvre les portes de la salle Delteil pour découvrir la culture Africaine et Afro. Artistes, Artisans, Associations, public... ensemble, INZO.",
     "start_date": "2025-04-11T10:30:00.000+02:00",
     "end_date": "2026-06-13T22:30:00.000+02:00",
+    "title": "INZO, Maison des Cultures Africaines et Afro.",
     "source": "Ville de Bègles",
-    "chunk_id": 0,
-    "text": "Durant une journée, un samedi par mois, la Cie MALOBA vous ouvre les portes de la salle Delteil pour découvrir la culture Africaine et Afro. Artistes, Artisans, Associations, public... ensemble, INZO."
+    "chunk_id": 170
   },
   {
-    "uid": 29036126,
-    "title": "Musées de Bordeaux gratuits le 1er dimanche du mois",
-    "start_date": "2025-12-07T11:00:00.000+01:00",
-    "end_date": "2027-01-03T18:00:00.000+01:00",
-    "source": "Ville de Bordeaux",
-    "chunk_id": 0,
-    "text": "Visitez gratuitement les musées municipaux chaque premier dimanche du mois (hors juillet et août)."
+    "uid": 34457851,
+    "text": "Pour Pauline Valentin, la création dédiée au jeune public se fabrique avec lui pour s’adapter au mieux à son rythme.",
+    "start_date": "2026-01-25T10:30:00.000+01:00",
+    "end_date": "2026-01-25T11:00:00.000+01:00",
+    "title": "POUCE ! Cou erture",
+    "source": "La Manufacture CDCN Nouvelle-Aquitaine Bordeaux• La Rochelle",
+    "chunk_id": 171
   },
   {
-    "uid": 62876297,
-    "title": "Quatuor Prométhée",
-    "start_date": "2025-10-17T20:30:00.000+02:00",
-    "end_date": "2026-04-24T21:45:00.000+02:00",
-    "source": "Opéra National de Bordeaux",
-    "chunk_id": 0,
-    "text": "Une programmation Opéra National de Bordeaux"
+    "uid": 17074315,
+    "text": "Explorez l'architecture si originale de la Cité du Vin !",
+    "start_date": "2026-01-25T11:00:00.000+01:00",
+    "end_date": "2026-01-25T12:00:00.000+01:00",
+    "title": "Visite guidée architecturale",
+    "source": "La Cité du Vin",
+    "chunk_id": 172
   },
   {
-    "uid": 16570658,
-    "title": "Visite étudiante",
-    "start_date": "2025-12-11T16:30:00.000+01:00",
-    "end_date": "2026-04-23T18:00:00.000+02:00",
-    "source": "Musée des Beaux-Arts Bordeaux",
-    "chunk_id": 0,
-    "text": "Rencontre ton métier au musée"
+    "uid": 18380142,
+    "text": "Dimanche 25 janvier , Darwin va raisonner au pas de tango grâce à Jorge Rodriguez, artiste passionné qui mêle danse, théâtre et scène avec un seul objectif : partager sa passion !",
+    "start_date": "2026-01-25T14:00:00.000+01:00",
+    "end_date": "2026-01-25T19:30:00.000+01:00",
+    "title": "COURS DE TANGO suivi d’une MILONGA (Bal Argentin) avec Jorge Rodriguez & l’association Percal Tango.",
+    "source": "Darwin Éco-système · Bordeaux, rive droite.",
+    "chunk_id": 173
   },
   {
-    "uid": 37903477,
-    "title": "Information Seniors et MDPH",
-    "start_date": "2026-01-05T14:00:00.000+01:00",
-    "end_date": "2026-03-09T16:00:00.000+01:00",
+    "uid": 43839886,
+    "text": "Les Frères Safa revisitent la fabuleuse histoire du « Chat Botté » !",
+    "start_date": "2026-01-25T16:00:00.000+01:00",
+    "end_date": "2026-01-25T17:30:00.000+01:00",
+    "title": "Chat Botté - Le Musical",
+    "source": "Le Pin Galant",
+    "chunk_id": 174
+  },
+  {
+    "uid": 8086063,
+    "text": "Un couple à la dérive voit sa vie chavirer lors d’une montée des eaux, qui emporte la femme. En quête d’elle, l’homme arpente des contrées...",
+    "start_date": "2026-01-25T17:00:00.000+01:00",
+    "end_date": "2026-01-25T18:00:00.000+01:00",
+    "title": "POUCE ! ACQUA ALTA – NOIR D’ENCRE / Adrien M & Claire B",
+    "source": "La Manufacture CDCN Nouvelle-Aquitaine Bordeaux• La Rochelle",
+    "chunk_id": 175
+  },
+  {
+    "uid": 24913053,
+    "text": "C’est l’histoire d’une femme, un homme, une maison. Un quotidien absurde et cousu de discorde. Mais un jour de pluie, la vie chavire : la montée des eaux engloutit la maison dans une mer d’encre.",
+    "start_date": "2026-01-25T17:00:00.000+01:00",
+    "end_date": "2026-01-25T18:00:00.000+01:00",
+    "title": "Acqua Alta\nAdrien M & Claire B",
+    "source": "La Coupole, Saint-Loubès",
+    "chunk_id": 176
+  },
+  {
+    "uid": 451588,
+    "text": "Spectacle de stand-up en rodage",
+    "start_date": "2026-01-25T19:00:00.000+01:00",
+    "end_date": "2026-06-07T20:00:00.000+02:00",
+    "title": "Léo DUMON dans BAGARRE",
+    "source": "BRIO",
+    "chunk_id": 177
+  },
+  {
+    "uid": 61253614,
+    "text": "à l'échoppe Arlette Gelé de Francony",
+    "start_date": "2026-01-26T14:00:00.000+01:00",
+    "end_date": "2026-01-26T15:00:00.000+01:00",
+    "title": "Remue-méninges",
     "source": "Bordeaux Seniors",
-    "chunk_id": 0,
-    "text": "à l'échoppe seniors Saint-Seurin"
+    "chunk_id": 178
   },
   {
-    "uid": 53710784,
-    "title": "La Dispute de Marivaux",
-    "start_date": "2025-11-29T20:30:00.000+01:00",
-    "end_date": "2026-06-13T22:00:00.000+02:00",
-    "source": "Spectacles au théâtre de la rousselle",
-    "chunk_id": 0,
-    "text": "Qui de l'homme ou de la femme a donné le premier l'exemple de l'inconstance et de l'infidélité en amour ?"
+    "uid": 5667315,
+    "text": "Soirée festive et conviviale ! Nos volontaires allemands vous animeront avec un grand quiz sur l’Allemagne.",
+    "start_date": "2026-01-26T19:00:00.000+01:00",
+    "end_date": "2026-01-26T21:00:00.000+01:00",
+    "title": "Soirée bingo & galette franco-allemande",
+    "source": "Maison de l'Europe Bordeaux-Aquitaine",
+    "chunk_id": 179
   },
   {
-    "uid": 60379530,
-    "title": "Le Bourgeois Gentilhomme",
-    "start_date": "2025-11-07T20:30:00.000+01:00",
-    "end_date": "2026-03-15T16:30:00.000+01:00",
-    "source": "Compagnie Présence - Saison 2025-2026",
-    "chunk_id": 0,
-    "text": "Spectacle à Bordeaux"
+    "uid": 17414196,
+    "text": "Ce solo est un des 4 portraits formant les Histoire(s) Décoloniale(s) de Betty Tchomanga. La chorégraphe y explore les récits de l’histoire coloniale circulant entre l’Occident et l’Afrique.",
+    "start_date": "2026-01-26T19:00:00.000+01:00",
+    "end_date": "2026-01-26T19:35:00.000+01:00",
+    "title": "POUCE ! Histoire(s) décoloniale(s) #Dalila - Betty Tchomanga",
+    "source": "La Manufacture CDCN Nouvelle-Aquitaine Bordeaux• La Rochelle",
+    "chunk_id": 180
   },
   {
-    "uid": 29925584,
-    "title": "Une Vie sur Mesure",
-    "start_date": "2025-10-01T20:30:00.000+02:00",
-    "end_date": "2026-05-02T22:00:00.000+02:00",
-    "source": "Théâtre des Beaux Arts",
-    "chunk_id": 0,
-    "text": "Avec plus de 1000 représentations et déjà 300.000 spectateurs, « Une vie sur mesure » est en passe de devenir « un classique » du théâtre contemporain."
-  },
-  {
-    "uid": 67659160,
-    "title": "Bar Ouvert",
-    "start_date": "2025-09-10T20:30:00.000+02:00",
-    "end_date": "2026-06-06T22:00:00.000+02:00",
-    "source": "Théâtre des Beaux Arts",
-    "chunk_id": 0,
-    "text": "Autour d’un seul et même zinc, une dizaine de lieux se succèdent : bar de ville, de campagne, palace, boîte de nuit… Le voyage est total dans cette poésie du quotidien."
-  },
-  {
-    "uid": 71784266,
-    "title": "Besoin d'info seniors? Venez à notre rencontre",
-    "start_date": "2025-11-13T13:30:00.000+01:00",
-    "end_date": "2027-06-01T17:00:00.000+02:00",
-    "source": "Bordeaux Seniors",
-    "chunk_id": 0,
-    "text": "Rendez-vous à l'échoppe seniors Saint-Seurin (Bordeaux Centre)"
-  },
-  {
-    "uid": 47549779,
-    "title": "Accrochage 'Récits d'enfance. Une exposition à voir et à écouter'",
-    "start_date": "2025-06-13T11:00:00.000+02:00",
-    "end_date": "2026-01-05T18:00:00.000+01:00",
-    "source": "Musée des Beaux-Arts Bordeaux",
-    "chunk_id": 0,
-    "text": "Cet accrochage sur le thème de l’enfance présente une cinquantaine de peintures, sculptures, médailles et œuvres graphiques des collections du musée, du 17e au 20e siècle."
-  },
-  {
-    "uid": 21100414,
-    "title": "La reconstruction de la porte de l'hôtel de ville de Bordeaux",
-    "start_date": "2025-12-08T00:00:00.000+01:00",
-    "end_date": "2026-01-04T23:59:00.000+01:00",
-    "source": "Ville de Bordeaux",
-    "chunk_id": 0,
-    "text": "Une exposition photo retrace les différentes étapes de la renaissance de la porte de l'hôtel de ville, incendiée en 2023."
-  },
-  {
-    "uid": 28100295,
-    "title": "Projection sur le Grand Théâtre",
-    "start_date": "2025-12-06T17:30:00.000+01:00",
-    "end_date": "2026-01-04T23:59:00.000+01:00",
-    "source": "Ville de Bordeaux",
-    "chunk_id": 0,
-    "text": "La façade du Grand-Théâtre est mise en lumière tous les soirs de 17h30 à minuit."
-  },
-  {
-    "uid": 58747737,
-    "title": "Sapin Verre",
-    "start_date": "2025-12-06T07:00:00.000+01:00",
-    "end_date": "2026-01-04T23:59:00.000+01:00",
-    "source": "Ville de Bordeaux",
-    "chunk_id": 0,
-    "text": "Sur la place Pey-Berland, l‘œuvre du designer girondin Arnaud Lapierre est visible du 6 décembre 2025 au 4 janvier 2026."
-  },
-  {
-    "uid": 75925315,
-    "title": "Exposition \"L'Invention du quotidien\"",
-    "start_date": "2025-07-04T11:00:00.000+02:00",
-    "end_date": "2026-01-04T18:00:00.000+01:00",
-    "source": "Capc Musée d'art contemporain de Bordeaux",
-    "chunk_id": 0,
-    "text": "Dans la nef du Capc, l'exposition \"L'Invention du quotidien\" réunit une sélection d'artistes qui trouvent de nouvelles façons d'être au monde dans les marges de notre quotidien."
-  },
-  {
-    "uid": 9149734,
-    "title": "Music Room",
-    "start_date": "2026-01-04T15:00:00.000+01:00",
-    "end_date": "2026-01-04T17:30:00.000+01:00",
+    "uid": 49015511,
+    "text": "Verdi | Rambert",
+    "start_date": "2026-01-26T20:00:00.000+01:00",
+    "end_date": "2026-02-03T22:50:00.000+01:00",
+    "title": "La Traviata",
     "source": "Opéra National de Bordeaux",
-    "chunk_id": 0,
-    "text": "Performance"
+    "chunk_id": 181
   },
   {
-    "uid": 20715504,
-    "title": "Exposition « Aïta, fragments poétiques d’une scène marocaine »",
-    "start_date": "2025-07-03T13:00:00.000+02:00",
-    "end_date": "2026-01-04T17:30:00.000+01:00",
+    "uid": 20637406,
+    "text": "Une soirée exceptionnelle pour découvrir Madame Paule : Mise à Nu·e avant son aventure à Avignon 2026 ! 🎭💫",
+    "start_date": "2026-01-26T20:00:00.000+01:00",
+    "end_date": "2026-01-26T22:00:00.000+01:00",
+    "title": "Madame Paule : Mise à Nue POINT DU JOUR 26 JANVIER 2026",
+    "source": "IDEALS Théâtre",
+    "chunk_id": 182
+  },
+  {
+    "uid": 92633723,
+    "text": "Est-ce sa voix captivante ou le savant mélange de sons organiques et de textures électroniques gravitant autour de son piano qui rendent les concerts de Patrick Watson si envoûtants ? Le tout, et  ...",
+    "start_date": "2026-01-26T20:30:00.000+01:00",
+    "end_date": "2026-01-26T23:30:00.000+01:00",
+    "title": "PATRICK WATSON",
+    "source": "Rocher de Palmer",
+    "chunk_id": 183
+  },
+  {
+    "uid": 60532687,
+    "text": "Dans le cadre du dispositif \"Entreprendre la Région à vos cotés\"  Découvrez le parcours du créateurs d'entreprise et les outils de l'Adie",
+    "start_date": "2026-01-27T09:30:00.000+01:00",
+    "end_date": "2026-01-27T12:30:00.000+01:00",
+    "title": "Financer mon projet d'entreprise",
+    "source": "Adie NA - 33",
+    "chunk_id": 184
+  },
+  {
+    "uid": 94263276,
+    "text": "Trois demi-journées d’échanges sur les politiques européennes des transports, réunissant étudiants de Nouvelle-Aquitaine, représentants régionaux et enseignants-chercheurs.",
+    "start_date": "2026-01-27T13:00:00.000+01:00",
+    "end_date": "2026-01-28T17:30:00.000+01:00",
+    "title": "L'Union européenne et les transports: évolutions ou révolutions des mobilités?",
+    "source": "Agenda L'Europe en Nouvelle-Aquitaine",
+    "chunk_id": 185
+  },
+  {
+    "uid": 6813681,
+    "text": "Rendez-vous personnalisés d'une heure pour répondre à vos questions sur le numérique.",
+    "start_date": "2026-01-27T14:00:00.000+01:00",
+    "end_date": "2026-02-24T17:00:00.000+01:00",
+    "title": "Soluces - Bordeaux-Lac",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 186
+  },
+  {
+    "uid": 33924370,
+    "text": "Rendez-vous personnalisés d'une heure pour répondre à vos questions sur le numérique.",
+    "start_date": "2026-01-27T14:00:00.000+01:00",
+    "end_date": "2026-02-24T17:00:00.000+01:00",
+    "title": "Soluces - Capucins/Saint-Michel",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 187
+  },
+  {
+    "uid": 63894776,
+    "text": "les raccourcis",
+    "start_date": "2026-01-27T14:00:00.000+01:00",
+    "end_date": "2026-01-27T16:00:00.000+01:00",
+    "title": "50 nuances de clavier",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 188
+  },
+  {
+    "uid": 12893421,
+    "text": "avec Marie Braux, bibliothécaire à la bibliothèque des Capucins",
+    "start_date": "2026-01-27T14:30:00.000+01:00",
+    "end_date": "2026-01-27T15:30:00.000+01:00",
+    "title": "Bibliothérapie",
+    "source": "Bordeaux Seniors",
+    "chunk_id": 189
+  },
+  {
+    "uid": 80093820,
+    "text": "Une discussion libre, animée par Florence Louis Schalchli, de l'association Philosphères",
+    "start_date": "2026-01-27T15:00:00.000+01:00",
+    "end_date": "2026-01-27T16:00:00.000+01:00",
+    "title": "#RDVdumardi - Café Philo \"Le bonheur\"",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 190
+  },
+  {
+    "uid": 93668890,
+    "text": "Venez vous initier au tricot",
+    "start_date": "2026-01-27T17:00:00.000+01:00",
+    "end_date": "2026-01-30T19:00:00.000+01:00",
+    "title": "Créateliers :  tricot",
+    "source": "Bibliothèques de Bordeaux",
+    "chunk_id": 191
+  },
+  {
+    "uid": 12727294,
+    "text": "Venez en débattre avec l'équipe d'Enercoop Nouvelle-Aquitaine qui vous en dira plus sur son offre de fourniture d’électricité coopérative.",
+    "start_date": "2026-01-27T18:00:00.000+01:00",
+    "end_date": "2026-01-27T19:45:00.000+01:00",
+    "title": "L'électricité : un bien commun",
+    "source": "ENERCOOP NOUVELLE-AQUITAINE",
+    "chunk_id": 192
+  },
+  {
+    "uid": 9515739,
+    "text": "Venez rencontrer Christophe Bouton à l’occasion de la sortie de son livre \"Sur les traces du temps\" aux éditions Minuit.",
+    "start_date": "2026-01-27T18:00:00.000+01:00",
+    "end_date": "2026-01-27T19:30:00.000+01:00",
+    "title": "Rencontre avec Christophe Bouton",
+    "source": "Librairie Mollat",
+    "chunk_id": 193
+  },
+  {
+    "uid": 48752338,
+    "text": "Tous niveaux",
+    "start_date": "2025-09-09T18:30:00.000+02:00",
+    "end_date": "2026-07-28T20:30:00.000+02:00",
+    "title": "Cours de dessin",
     "source": "Carte jeune Bordeaux Métropole",
-    "chunk_id": 0,
-    "text": "La trentaine d’artistes réuni·es par la commissaire d’exposition Sonia Recasens dans l’exposition mettent en lumière l’incroyable inventivité des traditions orales au Maroc."
+    "chunk_id": 194
   },
   {
-    "uid": 37758850,
-    "title": "Les premières courses de l'année sur l'hippodrome du Bouscat",
-    "start_date": "2026-01-04T12:30:00.000+01:00",
-    "end_date": "2026-01-04T16:30:00.000+01:00",
-    "source": "Hippodrome de Bordeaux-Le Bouscat",
-    "chunk_id": 0,
-    "text": "Rendez-vous dimanche 4 janvier pour les premières courses de trot de l'année ! A partir de 12h30 !"
+    "uid": 37728824,
+    "text": "Documentaire sonore en écho à Histoire(s) Décoloniale(s) de Betty Tchomanga suivie d'une discussion en compagnie de Charlotte Imbault.",
+    "start_date": "2026-01-27T19:00:00.000+01:00",
+    "end_date": "2026-01-27T20:30:00.000+01:00",
+    "title": "RENCONTRE - DISCUSSION autour d'Histoire(s) Décoloniale(s) - #DALILA",
+    "source": "La Manufacture CDCN Nouvelle-Aquitaine Bordeaux• La Rochelle",
+    "chunk_id": 195
   },
   {
-    "uid": 50333441,
-    "title": "GUIGNOL GUERIN au théâtre l'Inox pour les Vacances de Noël",
-    "start_date": "2025-12-29T16:00:00.000+01:00",
-    "end_date": "2026-01-04T16:30:00.000+01:00",
-    "source": "GUIGNOL GUERIN, théâtre de Marionnettes depuis 1853",
-    "chunk_id": 0,
-    "text": "Spectacles pour enfants et familles, théâtre de marionnettes du Guignol Guérin, en plein centre de Bordeaux, à l'Inox, pour les vacances de Noël !"
+    "uid": 73998014,
+    "text": "Rentrée des cours de danses swing : LINDY HOP DEBUTANT - BORDEAUX - Salle Hâ 32",
+    "start_date": "2025-09-30T20:00:00.000+02:00",
+    "end_date": "2026-06-23T21:00:00.000+02:00",
+    "title": "Rentrée des cours de danses swing : LINDY HOP DEBUTANT - BORDEAUX - Salle Hâ 32",
+    "source": "Carte jeune Bordeaux Métropole",
+    "chunk_id": 196
   },
   {
-    "uid": 87509578,
-    "title": "Guignol Guerin au théâtre l'Inox pour Noël",
-    "start_date": "2025-12-29T16:00:00.000+01:00",
-    "end_date": "2026-01-04T16:30:00.000+01:00",
-    "source": "Un air de Bordeaux",
-    "chunk_id": 0,
-    "text": "Spectacles pour enfants et familles, théâtre de marionnettes du Guignol Guérin, en plein centre de Bordeaux, à l'Inox, pour les vacances de Noël !"
+    "uid": 48466259,
+    "text": "En juillet 1954, s’éteignait l’une des figures les plus intrigantes du XXème siècle : l’artiste mexicaine Frida Kahlo. 70 ans après sa disparition, son œuvre continue de passionner.",
+    "start_date": "2025-10-14T20:00:00.000+02:00",
+    "end_date": "2026-02-24T21:30:00.000+01:00",
+    "title": "Una hora con Frida Kahlo",
+    "source": "Théâtre Trianon",
+    "chunk_id": 197
   },
   {
-    "uid": 53794825,
-    "title": "Ciné-goûter de bonne année",
-    "start_date": "2026-01-04T14:00:00.000+01:00",
-    "end_date": "2026-01-04T15:30:00.000+01:00",
-    "source": "Cinéma La Lanterne",
-    "chunk_id": 0,
-    "text": "Un goûter offert après la séance du film La Ruée vers l'or de Charlie Chaplin"
-  },
-  {
-    "uid": 96639376,
-    "title": "Concert du dimanche",
-    "start_date": "2026-01-04T11:00:00.000+01:00",
-    "end_date": "2026-01-04T12:00:00.000+01:00",
+    "uid": 2151038,
+    "text": "Hymnes à l'amour",
+    "start_date": "2026-01-27T20:00:00.000+01:00",
+    "end_date": "2026-01-27T21:35:00.000+01:00",
+    "title": "Sabine Devieilhe",
     "source": "Opéra National de Bordeaux",
-    "chunk_id": 0,
-    "text": "Voyage à Budapest"
+    "chunk_id": 198
+  },
+  {
+    "uid": 79836495,
+    "text": "La très novatrice compagnie australienne Circa transporte depuis 2004 un cirque ultra contemporain qui flirte allègrement avec la danse, le théâtre et la musique.",
+    "start_date": "2026-01-27T20:30:00.000+01:00",
+    "end_date": "2026-01-27T22:00:00.000+01:00",
+    "title": "Circa - Wolf",
+    "source": "Le Pin Galant",
+    "chunk_id": 199
   }
 ]

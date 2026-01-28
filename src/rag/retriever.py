@@ -2,33 +2,38 @@ from datetime import datetime, timezone, timedelta
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
 
+# Modèle d'embeddings utilisé pour interroger l'index FAISS
 embeddings = HuggingFaceEmbeddings(
     model_name="sentence-transformers/all-MiniLM-L6-v2"
 )
 
-def get_vectorstore():
+# Charge l'index FAISS sauvegardé localement.
+def get_vectorstore(): 
     return FAISS.load_local(
         "faiss_index",
         embeddings,
         allow_dangerous_deserialization=True
     )
-
+#Récupère les documents depuis FAISS. Si une période est fournie, applique un filtrage temporel.
 def retrieve_documents(question: str, k: int = 100, start=None, end=None):
     vectorstore = get_vectorstore()
-    docs = vectorstore.similarity_search("", k=1000)
+    
+    docs = vectorstore.similarity_search(question, k=1000) # Récupération d'un grand nombre de documents,filtrage principal  fait sur les dates
 
 
-    # 👉 Comportement AVANT : pas de dates → on ne filtre pas
+    # Si pas de dates demandées, on retourne directement
     if not start or not end:
         return docs
 
     try:
-        # bornes demandées (naïves → UTC)
+        # Conversion des dates demandées en UTC
         start_dt = datetime.fromisoformat(start).replace(tzinfo=timezone.utc)
-        end_dt = (datetime.fromisoformat(end).replace(tzinfo=timezone.utc)+ timedelta(days=1)
-)
+        end_dt = datetime.fromisoformat(end).replace(
+            tzinfo=timezone.utc
+        ) + timedelta(days=1)
+
     except Exception:
-        # sécurité : si parsing raté, on ne filtre pas
+        # si parsing raté, on ne filtre pas
         return docs
 
     filtered = []
@@ -39,7 +44,7 @@ def retrieve_documents(question: str, k: int = 100, start=None, end=None):
             continue
 
         try:
-            # dates événement (aware → UTC)
+            # Conversion des dates de l'événement en UTC
             ev_start = datetime.fromisoformat(sd).astimezone(timezone.utc)
             ev_end = datetime.fromisoformat(ed).astimezone(timezone.utc)
         except Exception:
