@@ -375,7 +375,7 @@ Documentation Swagger : **http://127.0.0.1:8000/docs**
 ```bash
 curl -X POST "http://127.0.0.1:8000/ask" \
   -H "Content-Type: application/json" \
-  -d '{"question": "Quels événements culturels à Bordeaux ?"}'
+  -d '{"question": "Quels événements culturels pour enfants à Bordeaux ?"}'
 ```
 
 #### Exemple avec Python (requests)

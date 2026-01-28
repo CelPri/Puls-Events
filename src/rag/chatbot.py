@@ -7,35 +7,43 @@ from src.rag.retriever import retrieve_documents
 
 load_dotenv()
 
-# LLM unique (utilisé pour tout)
+# LLM
 llm = ChatMistralAI(
     api_key=os.environ.get("MISTRAL_API_KEY"),
     model_name="mistral-small-latest",
     temperature=0
 )
 
-# Prompt 1 : extraction de date (générique, sans lister les mois en Python)
+# Prompt 1 : extraction d’intervalle de dates
 date_prompt = ChatPromptTemplate.from_template(
-    """Tu extrais une date depuis une question utilisateur.
+    """Tu extrais un intervalle de dates depuis une question utilisateur.
 Retourne UNIQUEMENT un JSON valide.
 
 Règles :
-- Si un mois et une année sont présents → retourne {{"year": "YYYY", "month": "MM"}}
-- Sinon → retourne {{}}
+- Jour précis → start_date = end_date
+- Week-end → samedi / dimanche
+- Mois → premier / dernier jour
+- Sinon → {{}}
+
+Format :
+{{"start_date":"YYYY-MM-DD","end_date":"YYYY-MM-DD"}}
 
 Exemples :
-"événements en août 2026" → {{"year": "2026", "month": "08"}}
+"le WE du 24 janvier 2026" → {{"start_date":"2026-01-24","end_date":"2026-01-25"}}
+"événements en août 2026" → {{"start_date":"2026-08-01","end_date":"2026-08-31"}}
 "que faire à Bordeaux ?" → {{}}
 
 Question : {question}
 JSON :"""
 )
 
-# Prompt 2 : RAG final
+
+# Prompt 2 : génération RAG finale
 rag_prompt = ChatPromptTemplate.from_template(
     """Tu es un assistant culturel.
 Réponds UNIQUEMENT à partir du contexte fourni.
-Si le contexte est vide, dis-le clairement.
+Si aucun événement ne correspond, dis-le clairement.
+Utilise des listes à puces pour présenter les événements.
 
 Contexte :
 {context}
@@ -45,40 +53,28 @@ Question :
 """
 )
 
-def filter_by_month(docs, year: str, month: str):
-    start = f"{year}-{month}-01"
-    end = f"{year}-{month}-31"
-
-    return [
-        d for d in docs
-        if d.metadata.get("start_date") <= end
-        and d.metadata.get("end_date") >= start
-    ]
-
 def answer(question: str) -> str:
-    # 1. Extraction date via LLM
+    # 1. Extraction des dates
     date_chain = date_prompt | llm
     date_response = date_chain.invoke({"question": question})
 
-    target = {}
     try:
-        clean = date_response.content.replace("```json", "").replace("```", "").strip()
-        if clean.startswith("{"):
-            target = json.loads(clean)
+        dates = json.loads(date_response.content)
     except Exception:
-        target = {}
+        dates = {}
 
-    # 2. Rappel large FAISS
-    docs = retrieve_documents(question, k=500)
+    # 2. Retrieval avec filtrage temporel
+    docs = retrieve_documents(
+        question,
+        start=dates.get("start_date"),
+        end=dates.get("end_date"),
+        k=500
+    )
 
-    # 3. Filtrage date si applicable
-    if target.get("year") and target.get("month"):
-        docs = filter_by_month(docs, target["year"], target["month"])
+    if not docs:
+        return "Aucun événement ne correspond à votre recherche."
 
-        if not docs:
-            return f"Aucun événement trouvé pour {target['month']}/{target['year']}."
-
-    # 4. Limiter le contexte
+    # 3. Limitation du contexte
     docs = docs[:30]
 
     context = "\n\n".join(
@@ -86,7 +82,7 @@ def answer(question: str) -> str:
         for d in docs
     )
 
-    # 5. Génération finale
+    # 4. Génération finale
     response = (rag_prompt | llm).invoke({
         "context": context,
         "question": question

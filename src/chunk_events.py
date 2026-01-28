@@ -1,3 +1,4 @@
+from asyncio import events
 from ragas import evaluate
 from ragas.metrics import faithfulness, answer_relevancy
 from datasets import Dataset
@@ -10,14 +11,16 @@ def chunk_events(events):
     Fonction testable unitairement.
     """
     chunks = []
-
     for event in events:
         if event.get("description"):
             chunks.append({
                 "uid": event.get("uid"),
-                "text": event.get("description")
-            })
-
+                "text": event.get("description"),
+                "start_date": event.get("start_date"),
+                "end_date": event.get("end_date"),
+                "title": event.get("title"),
+                "source": event.get("source"),
+                    })
     return chunks
 
 if __name__ == "__main__":
