@@ -1,5 +1,6 @@
 import os
 import json
+import re
 from dotenv import load_dotenv
 from langchain_mistralai import ChatMistralAI
 from langchain_core.prompts import ChatPromptTemplate
@@ -20,18 +21,18 @@ date_prompt = ChatPromptTemplate.from_template(
 Retourne UNIQUEMENT un JSON valide.
 
 Règles :
-- Jour précis → start_date = end_date
-- Week-end → samedi / dimanche
-- Mois → premier / dernier jour
-- Sinon → {{}}
+- Jour précis : start_date = end_date
+- Week-end : samedi / dimanche
+- Mois : premier / dernier jour
+- Sinon : {{}}
 
 Format :
 {{"start_date":"YYYY-MM-DD","end_date":"YYYY-MM-DD"}}
 
 Exemples :
-"le WE du 24 janvier 2026" → {{"start_date":"2026-01-24","end_date":"2026-01-25"}}
-"événements en août 2026" → {{"start_date":"2026-08-01","end_date":"2026-08-31"}}
-"que faire à Bordeaux ?" → {{}}
+"le WE du 24 janvier 2026" : {{"start_date":"2026-01-24","end_date":"2026-01-25"}}
+"événements en août 2026" : {{"start_date":"2026-08-01","end_date":"2026-08-31"}}
+"que faire à Bordeaux ?" : {{}}
 
 Question : {question}
 JSON :"""
@@ -54,16 +55,20 @@ Question :
 )
 
 def answer(question: str) -> str:
-    # 1. Extraction des dates
+    # Extraction des dates
     date_chain = date_prompt | llm
     date_response = date_chain.invoke({"question": question})
+   
+
 
     try:
-        dates = json.loads(date_response.content)
+        json_str = re.search(r"\{.*\}", date_response.content, re.S).group()
+        dates = json.loads(json_str)
     except Exception:
         dates = {}
 
-    # 2. Retrieval avec filtrage temporel
+
+    # Retrieval avec filtrage temporel
     docs = retrieve_documents(
         question,
         start=dates.get("start_date"),
@@ -74,7 +79,7 @@ def answer(question: str) -> str:
     if not docs:
         return "Aucun événement ne correspond à votre recherche."
 
-    # 3. Limitation du contexte
+    # Limitation du contexte
     docs = docs[:30]
 
     context = "\n\n".join(
@@ -82,7 +87,7 @@ def answer(question: str) -> str:
         for d in docs
     )
 
-    # 4. Génération finale
+    # Génération finale
     response = (rag_prompt | llm).invoke({
         "context": context,
         "question": question
